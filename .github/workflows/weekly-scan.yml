@@ -1,0 +1,41 @@
+name: Weekly CV Listings Scan
+
+on:
+  schedule:
+    # Every Monday at 7:00 AM UK time (UTC during BST: 6am, GMT: 7am)
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+    # Also allow manual trigger from GitHub UI
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install node-fetch@2
+      
+      - name: Run scanner
+        run: node scanner/coventry-scanner.js
+        env:
+          SD_API_KEY: ${{ secrets.SD_API_KEY }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+      
+      - name: Commit updated history
+        run: |
+          git config user.name "Scanner Bot"
+          git config user.email "scanner@topknocker.app"
+          git add scanner/cv-listings-history.json
+          git diff --staged --quiet || git commit -m "🔍 Weekly scan $(date +%Y-%m-%d) — $(node -e "const h=require('./scanner/cv-listings-history.json'); const s=h.scans[h.scans.length-1]; console.log(s.total_active+' active, '+s.new_listings+' new, '+s.withdrawn+' withdrawn')")"
+          git push
