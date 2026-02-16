@@ -23,6 +23,19 @@
       "matched_listings": 1203,
       "matched_properties": 14983,
       "pushed_to_supabase": true
+    },
+    {
+      "date": "2026-02-16",
+      "time": "093829",
+      "total_active": 1513,
+      "new_listings": 0,
+      "withdrawn": 31,
+      "price_reduced": 0,
+      "listing_changes_logged": 31,
+      "cost": 3.900000000000002,
+      "matched_listings": 1203,
+      "matched_properties": 14983,
+      "pushed_to_supabase": true
     }
   ],
   "listings": {
@@ -27312,7 +27325,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172218011",
       "first_seen": "2026-02-16",
       "first_price": 295000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r167791559": {
       "street": "Elizabeth Way",
@@ -27330,7 +27343,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167791559",
       "first_seen": "2026-02-16",
       "first_price": 185000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r171592550": {
       "street": "Windmill Road",
@@ -27348,7 +27361,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171592550",
       "first_seen": "2026-02-16",
       "first_price": 230000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r170762198": {
       "street": "Mapperley Close",
@@ -27366,7 +27379,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170762198",
       "first_seen": "2026-02-16",
       "first_price": 200000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172154804": {
       "street": "Mary Herbert Street",
@@ -27384,7 +27397,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172154804",
       "first_seen": "2026-02-16",
       "first_price": 229950,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172179236": {
       "street": "Glover Street",
@@ -27402,7 +27415,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172179236",
       "first_seen": "2026-02-16",
       "first_price": 370000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r164472008": {
       "street": "Glover Street",
@@ -27420,7 +27433,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164472008",
       "first_seen": "2026-02-16",
       "first_price": 370000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172165283": {
       "street": "Dunchurch Highway",
@@ -27438,7 +27451,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172165283",
       "first_seen": "2026-02-16",
       "first_price": 210000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172181342": {
       "street": "Lyons Drive",
@@ -27456,7 +27469,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172181342",
       "first_seen": "2026-02-16",
       "first_price": 550000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172216124": {
       "street": "Butt Lane",
@@ -27474,7 +27487,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172216124",
       "first_seen": "2026-02-16",
       "first_price": 425000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172144985": {
       "street": "Rose Avenue",
@@ -27492,7 +27505,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172144985",
       "first_seen": "2026-02-16",
       "first_price": 195000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r171687659": {
       "street": "Kirkdale Avenue",
@@ -27510,7 +27523,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171687659",
       "first_seen": "2026-02-16",
       "first_price": 135000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r165765995": {
       "street": "Grangemouth Road",
@@ -27528,7 +27541,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165765995",
       "first_seen": "2026-02-16",
       "first_price": 165000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172156103": {
       "street": "Villa Road",
@@ -27546,7 +27559,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172156103",
       "first_seen": "2026-02-16",
       "first_price": 180000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172236425": {
       "street": "Lancaster Place",
@@ -27564,7 +27577,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172236425",
       "first_seen": "2026-02-16",
       "first_price": 350000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172223507": {
       "street": "St. Johns Street",
@@ -27582,7 +27595,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172223507",
       "first_seen": "2026-02-16",
       "first_price": 249950,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172189733": {
       "street": "Farmer Ward Road",
@@ -27600,7 +27613,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172189733",
       "first_seen": "2026-02-16",
       "first_price": 600000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r168913133": {
       "street": "Holmewood Close",
@@ -27618,7 +27631,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168913133",
       "first_seen": "2026-02-16",
       "first_price": 250000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172153586": {
       "street": "Grove Road",
@@ -27636,7 +27649,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172153586",
       "first_seen": "2026-02-16",
       "first_price": 160000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172162781": {
       "street": "Cypress Way",
@@ -27654,7 +27667,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172162781",
       "first_seen": "2026-02-16",
       "first_price": 190000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172216250": {
       "street": "Cedar Road",
@@ -27672,7 +27685,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172216250",
       "first_seen": "2026-02-16",
       "first_price": 165000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r171735956": {
       "street": "Seven Foot Lane",
@@ -27690,7 +27703,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171735956",
       "first_seen": "2026-02-16",
       "first_price": 175000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r161880128": {
       "street": "Chaytor Drive",
@@ -27708,7 +27721,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/161880128",
       "first_seen": "2026-02-16",
       "first_price": 200000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r171620654": {
       "street": "Orford Rise",
@@ -27726,7 +27739,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171620654",
       "first_seen": "2026-02-16",
       "first_price": 265000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172194875": {
       "street": "St. Matthews Close",
@@ -27744,7 +27757,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172194875",
       "first_seen": "2026-02-16",
       "first_price": 340000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r168638750": {
       "street": "School Lane",
@@ -27762,7 +27775,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168638750",
       "first_seen": "2026-02-16",
       "first_price": 235000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172213457": {
       "street": "Nairn Close",
@@ -27780,7 +27793,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172213457",
       "first_seen": "2026-02-16",
       "first_price": 280000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172160027": {
       "street": "Home Park Road",
@@ -27798,7 +27811,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172160027",
       "first_seen": "2026-02-16",
       "first_price": 260000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172178534": {
       "street": "Watersbridge Gardens",
@@ -27816,7 +27829,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172178534",
       "first_seen": "2026-02-16",
       "first_price": 140000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172149284": {
       "street": "Nuneaton Road",
@@ -27834,7 +27847,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172149284",
       "first_seen": "2026-02-16",
       "first_price": 290000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r170502443": {
       "street": "Barne Close",
@@ -27852,7 +27865,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170502443",
       "first_seen": "2026-02-16",
       "first_price": 280000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r171008039": {
       "street": "Barton Road",
@@ -27870,7 +27883,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171008039",
       "first_seen": "2026-02-16",
       "first_price": 700000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172164626": {
       "street": "Clifton Road",
@@ -27888,7 +27901,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172164626",
       "first_seen": "2026-02-16",
       "first_price": 120000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172155767": {
       "street": "Regent Street",
@@ -27906,7 +27919,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172155767",
       "first_seen": "2026-02-16",
       "first_price": 325000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172198793": {
       "street": "Caldecott Street",
@@ -27924,7 +27937,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172198793",
       "first_seen": "2026-02-16",
       "first_price": 300000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172182299": {
       "street": "Overstone Road",
@@ -27942,7 +27955,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172182299",
       "first_seen": "2026-02-16",
       "first_price": 900000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172162430": {
       "street": "Charlbury Mews",
@@ -27960,7 +27973,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172162430",
       "first_seen": "2026-02-16",
       "first_price": 275000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172167503": {
       "street": "Coughton Drive",
@@ -27978,7 +27991,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172167503",
       "first_seen": "2026-02-16",
       "first_price": 280000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172206632": {
       "street": "Bath Street",
@@ -27996,7 +28009,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172206632",
       "first_seen": "2026-02-16",
       "first_price": 190000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172145654": {
       "street": "Coriolanus Square",
@@ -28014,7 +28027,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172145654",
       "first_seen": "2026-02-16",
       "first_price": 625000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172169720": {
       "street": "Spa View",
@@ -28032,7 +28045,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172169720",
       "first_seen": "2026-02-16",
       "first_price": 350000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172180301": {
       "street": "Emscote Road",
@@ -28050,7 +28063,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172180301",
       "first_seen": "2026-02-16",
       "first_price": 315000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172170632": {
       "street": "Church Hill",
@@ -28068,7 +28081,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172170632",
       "first_seen": "2026-02-16",
       "first_price": 1450000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r171650093": {
       "street": "Albert Street",
@@ -28086,7 +28099,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171650093",
       "first_seen": "2026-02-16",
       "first_price": 85000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r171647960": {
       "street": "Vicarage Lane",
@@ -28104,7 +28117,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171647960",
       "first_seen": "2026-02-16",
       "first_price": 500000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172184696": {
       "street": "Rother Street",
@@ -28122,7 +28135,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172184696",
       "first_seen": "2026-02-16",
       "first_price": 800000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r172195691": {
       "street": "Shepherds Hill",
@@ -28140,7 +28153,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172195691",
       "first_seen": "2026-02-16",
       "first_price": 450000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r170594552": {
       "street": "Dale Close",
@@ -28158,7 +28171,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170594552",
       "first_seen": "2026-02-16",
       "first_price": 280000,
-      "status": "NEW"
+      "status": "Active"
     },
     "r87148674": {
       "street": "Brickyard Road",
@@ -28176,7 +28189,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87148674",
       "first_seen": "2026-02-16",
       "first_price": 680000,
-      "status": "NEW"
+      "status": "Active"
     }
   }
 }
