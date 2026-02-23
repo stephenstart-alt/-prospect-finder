@@ -64,6 +64,21 @@
       "exact_matches": 0,
       "street_only_matches": 119,
       "pushed_to_supabase": true
+    },
+    {
+      "date": "2026-02-23",
+      "time": "165355",
+      "total_active": 0,
+      "new_listings": 0,
+      "withdrawn": 1582,
+      "price_reduced": 0,
+      "listing_changes_logged": 1582,
+      "cost": 0,
+      "matched_listings": 0,
+      "matched_properties": 0,
+      "exact_matches": 0,
+      "street_only_matches": 0,
+      "pushed_to_supabase": true
     }
   ],
   "listings": {
@@ -88,7 +103,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172050251",
       "first_seen": "2026-02-13",
       "first_price": 125000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167170235": {
       "house_number": "",
@@ -111,7 +127,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167170235",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r158467949": {
       "house_number": "",
@@ -134,7 +151,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158467949",
       "first_seen": "2026-02-13",
       "first_price": 160000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167626082": {
       "house_number": "",
@@ -157,7 +175,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167626082",
       "first_seen": "2026-02-13",
       "first_price": 85000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165520166": {
       "house_number": "",
@@ -180,7 +199,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165520166",
       "first_seen": "2026-02-13",
       "first_price": 135000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168948707": {
       "street": "Priory Place",
@@ -221,7 +241,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167588540",
       "first_seen": "2026-02-13",
       "first_price": 120000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r158467958": {
       "house_number": "",
@@ -244,7 +265,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158467958",
       "first_seen": "2026-02-13",
       "first_price": 175000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171846605": {
       "house_number": "",
@@ -267,7 +289,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171846605",
       "first_seen": "2026-02-13",
       "first_price": 110000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r55257498": {
       "house_number": "",
@@ -290,7 +313,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/55257498",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r62734698": {
       "house_number": "",
@@ -313,7 +337,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/62734698",
       "first_seen": "2026-02-13",
       "first_price": 162500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r65098809": {
       "house_number": "",
@@ -336,7 +361,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/65098809",
       "first_seen": "2026-02-13",
       "first_price": 159950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172011830": {
       "house_number": "",
@@ -359,7 +385,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172011830",
       "first_seen": "2026-02-13",
       "first_price": 90000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r123748427": {
       "house_number": "",
@@ -382,7 +409,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/123748427",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r140686190": {
       "house_number": "",
@@ -405,7 +433,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/140686190",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172056650": {
       "house_number": "",
@@ -428,7 +457,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172056650",
       "first_seen": "2026-02-13",
       "first_price": 160000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r65545608": {
       "house_number": "",
@@ -451,7 +481,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/65545608",
       "first_seen": "2026-02-13",
       "first_price": 125000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r68555943": {
       "house_number": "",
@@ -474,7 +505,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/68555943",
       "first_seen": "2026-02-13",
       "first_price": 145000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169230233": {
       "house_number": "",
@@ -497,7 +529,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169230233",
       "first_seen": "2026-02-13",
       "first_price": 170000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166643204": {
       "house_number": "",
@@ -520,7 +553,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166643204",
       "first_seen": "2026-02-13",
       "first_price": 160000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r158467964": {
       "house_number": "",
@@ -543,7 +577,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158467964",
       "first_seen": "2026-02-13",
       "first_price": 190000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166218398": {
       "house_number": "",
@@ -566,7 +601,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166218398",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166807034": {
       "house_number": "",
@@ -589,7 +625,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166807034",
       "first_seen": "2026-02-13",
       "first_price": 140000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167188253": {
       "house_number": "",
@@ -612,7 +649,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167188253",
       "first_seen": "2026-02-13",
       "first_price": 125000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r150756023": {
       "house_number": "",
@@ -635,7 +673,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/150756023",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r159387377": {
       "house_number": "",
@@ -658,7 +697,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159387377",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169283036": {
       "house_number": "",
@@ -681,7 +721,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169283036",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170613602": {
       "house_number": "",
@@ -704,7 +745,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170613602",
       "first_seen": "2026-02-13",
       "first_price": 140000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r71979625": {
       "house_number": "",
@@ -727,7 +769,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/71979625",
       "first_seen": "2026-02-13",
       "first_price": 170000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r157519715": {
       "house_number": "",
@@ -750,7 +793,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/157519715",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171830831": {
       "house_number": "",
@@ -773,7 +817,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171830831",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171556718": {
       "house_number": "",
@@ -796,7 +841,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171556718",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167708261": {
       "house_number": "",
@@ -819,7 +865,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167708261",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r156907019": {
       "house_number": "",
@@ -842,7 +889,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/156907019",
       "first_seen": "2026-02-13",
       "first_price": 220000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r122929253": {
       "house_number": "",
@@ -865,7 +913,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/122929253",
       "first_seen": "2026-02-13",
       "first_price": 155000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162198878": {
       "house_number": "",
@@ -888,7 +937,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/162198878",
       "first_seen": "2026-02-13",
       "first_price": 100000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r63890214": {
       "house_number": "",
@@ -911,7 +961,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/63890214",
       "first_seen": "2026-02-13",
       "first_price": 140000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r157882523": {
       "house_number": "",
@@ -934,7 +985,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/157882523",
       "first_seen": "2026-02-13",
       "first_price": 115000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167188475": {
       "house_number": "",
@@ -957,7 +1009,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167188475",
       "first_seen": "2026-02-13",
       "first_price": 112500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r152663456": {
       "house_number": "",
@@ -980,7 +1033,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/152663456",
       "first_seen": "2026-02-13",
       "first_price": 125000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r163789838": {
       "house_number": "",
@@ -1003,7 +1057,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/163789838",
       "first_seen": "2026-02-13",
       "first_price": 117000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171442163": {
       "house_number": "",
@@ -1026,7 +1081,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171442163",
       "first_seen": "2026-02-13",
       "first_price": 90000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171389144": {
       "house_number": "",
@@ -1049,7 +1105,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171389144",
       "first_seen": "2026-02-13",
       "first_price": 90000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r159967481": {
       "house_number": "",
@@ -1072,7 +1129,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159967481",
       "first_seen": "2026-02-13",
       "first_price": 132500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164106176": {
       "house_number": "",
@@ -1095,7 +1153,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164106176",
       "first_seen": "2026-02-13",
       "first_price": 120000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r160272491": {
       "house_number": "",
@@ -1118,7 +1177,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/160272491",
       "first_seen": "2026-02-13",
       "first_price": 800000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r145971956": {
       "house_number": "",
@@ -1141,7 +1201,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/145971956",
       "first_seen": "2026-02-13",
       "first_price": 675000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172010432": {
       "street": "Green Park",
@@ -1221,7 +1282,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170646431",
       "first_seen": "2026-02-13",
       "first_price": 175000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r157351826": {
       "house_number": "",
@@ -1244,7 +1306,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/157351826",
       "first_seen": "2026-02-13",
       "first_price": 270000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r141227255": {
       "house_number": "",
@@ -1267,7 +1330,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/141227255",
       "first_seen": "2026-02-13",
       "first_price": 100000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r153892832": {
       "house_number": "",
@@ -1290,7 +1354,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/153892832",
       "first_seen": "2026-02-13",
       "first_price": 99950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171444329": {
       "house_number": "",
@@ -1313,7 +1378,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171444329",
       "first_seen": "2026-02-13",
       "first_price": 350000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165143345": {
       "house_number": "",
@@ -1336,7 +1402,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165143345",
       "first_seen": "2026-02-13",
       "first_price": 120000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87616023": {
       "house_number": "",
@@ -1359,7 +1426,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87616023",
       "first_seen": "2026-02-13",
       "first_price": 175000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171168128": {
       "house_number": "",
@@ -1382,7 +1450,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171168128",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169862789": {
       "house_number": "",
@@ -1405,7 +1474,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169862789",
       "first_seen": "2026-02-13",
       "first_price": 100000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87365022": {
       "house_number": "",
@@ -1428,7 +1498,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87365022",
       "first_seen": "2026-02-13",
       "first_price": 98000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r159571430": {
       "house_number": "",
@@ -1451,7 +1522,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159571430",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169318649": {
       "house_number": "",
@@ -1474,7 +1546,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169318649",
       "first_seen": "2026-02-13",
       "first_price": 114000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87593691": {
       "house_number": "",
@@ -1497,7 +1570,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87593691",
       "first_seen": "2026-02-13",
       "first_price": 145000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171114725": {
       "house_number": "",
@@ -1520,7 +1594,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171114725",
       "first_seen": "2026-02-13",
       "first_price": 145000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r152549291": {
       "house_number": "",
@@ -1543,7 +1618,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/152549291",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167429588": {
       "house_number": "",
@@ -1566,7 +1642,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167429588",
       "first_seen": "2026-02-13",
       "first_price": 175000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171577853": {
       "house_number": "",
@@ -1589,7 +1666,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171577853",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169049774": {
       "house_number": "",
@@ -1612,7 +1690,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169049774",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167468795": {
       "house_number": "",
@@ -1635,7 +1714,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167468795",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170566094": {
       "house_number": "",
@@ -1658,7 +1738,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170566094",
       "first_seen": "2026-02-13",
       "first_price": 145000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172040744": {
       "street": "Chandos Street",
@@ -1700,7 +1781,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/161028368",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170517881": {
       "house_number": "",
@@ -1723,7 +1805,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170517881",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171099068": {
       "house_number": "",
@@ -1746,7 +1829,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171099068",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166358300": {
       "house_number": "",
@@ -1769,7 +1853,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166358300",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171946736": {
       "house_number": "",
@@ -1792,7 +1877,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171946736",
       "first_seen": "2026-02-13",
       "first_price": 145000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r139243379": {
       "house_number": "",
@@ -1815,7 +1901,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/139243379",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169275197": {
       "house_number": "",
@@ -1838,7 +1925,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169275197",
       "first_seen": "2026-02-13",
       "first_price": 190000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166915961": {
       "house_number": "",
@@ -1861,7 +1949,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166915961",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165041015": {
       "house_number": "",
@@ -1884,7 +1973,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165041015",
       "first_seen": "2026-02-13",
       "first_price": 185000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r156859943": {
       "house_number": "",
@@ -1907,7 +1997,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/156859943",
       "first_seen": "2026-02-13",
       "first_price": 155000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165235400": {
       "street": "Trentham Road",
@@ -1949,7 +2040,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/137333051",
       "first_seen": "2026-02-13",
       "first_price": 595000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r156891806": {
       "house_number": "",
@@ -1972,7 +2064,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/156891806",
       "first_seen": "2026-02-13",
       "first_price": 210000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r86763800": {
       "house_number": "",
@@ -1995,7 +2088,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/86763800",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166239125": {
       "house_number": "",
@@ -2018,7 +2112,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166239125",
       "first_seen": "2026-02-13",
       "first_price": 255000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167097869": {
       "house_number": "",
@@ -2041,7 +2136,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167097869",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165932702": {
       "house_number": "",
@@ -2064,7 +2160,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165932702",
       "first_seen": "2026-02-13",
       "first_price": 160000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169503629": {
       "house_number": "",
@@ -2087,7 +2184,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169503629",
       "first_seen": "2026-02-13",
       "first_price": 210000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169693736": {
       "house_number": "",
@@ -2110,7 +2208,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169693736",
       "first_seen": "2026-02-13",
       "first_price": 319950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170591714": {
       "house_number": "",
@@ -2133,7 +2232,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170591714",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164074322": {
       "house_number": "",
@@ -2156,7 +2256,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164074322",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r127920014": {
       "house_number": "",
@@ -2179,7 +2280,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/127920014",
       "first_seen": "2026-02-13",
       "first_price": 315000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171446645": {
       "street": "St. Osburgs Road",
@@ -2221,7 +2323,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165902657",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171808532": {
       "house_number": "",
@@ -2244,7 +2347,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171808532",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r152490131": {
       "house_number": "",
@@ -2267,7 +2371,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/152490131",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171492155": {
       "house_number": "",
@@ -2290,7 +2395,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171492155",
       "first_seen": "2026-02-13",
       "first_price": 110000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171214121": {
       "house_number": "",
@@ -2313,7 +2419,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171214121",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162585821": {
       "house_number": "",
@@ -2336,7 +2443,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/162585821",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170169977": {
       "house_number": "",
@@ -2359,7 +2467,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170169977",
       "first_seen": "2026-02-13",
       "first_price": 210000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171004193": {
       "house_number": "",
@@ -2382,7 +2491,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171004193",
       "first_seen": "2026-02-13",
       "first_price": 270000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87573633": {
       "street": "Ambleside",
@@ -2424,7 +2534,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164918117",
       "first_seen": "2026-02-13",
       "first_price": 155000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170623610": {
       "house_number": "",
@@ -2447,7 +2558,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170623610",
       "first_seen": "2026-02-13",
       "first_price": 290000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171785153": {
       "house_number": "",
@@ -2470,7 +2582,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171785153",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168715139": {
       "house_number": "",
@@ -2493,7 +2606,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168715139",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r134911475": {
       "house_number": "",
@@ -2516,7 +2630,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/134911475",
       "first_seen": "2026-02-13",
       "first_price": 100000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170780384": {
       "house_number": "",
@@ -2539,7 +2654,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170780384",
       "first_seen": "2026-02-13",
       "first_price": 120000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169976291": {
       "house_number": "",
@@ -2562,7 +2678,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169976291",
       "first_seen": "2026-02-13",
       "first_price": 105000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167595011": {
       "house_number": "",
@@ -2585,7 +2702,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167595011",
       "first_seen": "2026-02-13",
       "first_price": 425000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172086824": {
       "house_number": "",
@@ -2608,7 +2726,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172086824",
       "first_seen": "2026-02-13",
       "first_price": 575000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171957305": {
       "street": "Ashorne Close",
@@ -2649,7 +2768,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171792716",
       "first_seen": "2026-02-13",
       "first_price": 215000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171561260": {
       "house_number": "",
@@ -2672,7 +2792,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171561260",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171352766": {
       "house_number": "",
@@ -2695,7 +2816,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171352766",
       "first_seen": "2026-02-13",
       "first_price": 110000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171627482": {
       "street": "Linford Walk",
@@ -2756,7 +2878,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172012019",
       "first_seen": "2026-02-13",
       "first_price": 350000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167856602": {
       "street": "Norman Avenue",
@@ -2798,7 +2921,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171690065",
       "first_seen": "2026-02-13",
       "first_price": 285000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r157775075": {
       "house_number": "",
@@ -2821,7 +2945,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/157775075",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r144167942": {
       "street": "Wedgewood Close",
@@ -2882,7 +3007,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170596853",
       "first_seen": "2026-02-13",
       "first_price": 190000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169948016": {
       "house_number": "",
@@ -2905,7 +3031,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169948016",
       "first_seen": "2026-02-13",
       "first_price": 140000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169154762": {
       "house_number": "",
@@ -2928,7 +3055,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169154762",
       "first_seen": "2026-02-13",
       "first_price": 220000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171120293": {
       "house_number": "",
@@ -2951,7 +3079,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171120293",
       "first_seen": "2026-02-13",
       "first_price": 329950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172135784": {
       "house_number": "",
@@ -2974,7 +3103,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172135784",
       "first_seen": "2026-02-13",
       "first_price": 159950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172052948": {
       "house_number": "",
@@ -2997,7 +3127,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172052948",
       "first_seen": "2026-02-13",
       "first_price": 295000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168636983": {
       "house_number": "",
@@ -3020,7 +3151,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168636983",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87609876": {
       "house_number": "",
@@ -3043,7 +3175,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87609876",
       "first_seen": "2026-02-13",
       "first_price": 140000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166363997": {
       "house_number": "",
@@ -3066,7 +3199,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166363997",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171387515": {
       "street": "Lumsden Close",
@@ -3107,7 +3241,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171991214",
       "first_seen": "2026-02-13",
       "first_price": 275000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169917059": {
       "street": "Denshaw Croft",
@@ -3149,7 +3284,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168006995",
       "first_seen": "2026-02-13",
       "first_price": 550000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172019189": {
       "street": "Boyd Close",
@@ -3190,7 +3326,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167412017",
       "first_seen": "2026-02-13",
       "first_price": 495000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164653283": {
       "house_number": "",
@@ -3213,7 +3350,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164653283",
       "first_seen": "2026-02-13",
       "first_price": 290000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r159797891": {
       "house_number": "",
@@ -3236,7 +3374,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159797891",
       "first_seen": "2026-02-13",
       "first_price": 149000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170415659": {
       "house_number": "",
@@ -3259,7 +3398,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170415659",
       "first_seen": "2026-02-13",
       "first_price": 340000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165749660": {
       "house_number": "",
@@ -3282,7 +3422,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165749660",
       "first_seen": "2026-02-13",
       "first_price": 225000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87493065": {
       "house_number": "",
@@ -3305,7 +3446,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87493065",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170523398": {
       "house_number": "",
@@ -3328,7 +3470,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170523398",
       "first_seen": "2026-02-13",
       "first_price": 270000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171506384": {
       "house_number": "",
@@ -3351,7 +3494,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171506384",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87336174": {
       "street": "Chaceley Close",
@@ -3393,7 +3537,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172056149",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168350060": {
       "street": "Chaceley Close",
@@ -3434,7 +3579,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166967963",
       "first_seen": "2026-02-13",
       "first_price": 240000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162910649": {
       "house_number": "",
@@ -3457,7 +3603,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/162910649",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168484559": {
       "street": "Agincourt Road",
@@ -3499,7 +3646,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167037542",
       "first_seen": "2026-02-13",
       "first_price": 225000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171259280": {
       "house_number": "",
@@ -3522,7 +3670,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171259280",
       "first_seen": "2026-02-13",
       "first_price": 340000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170910650": {
       "house_number": "",
@@ -3545,7 +3694,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170910650",
       "first_seen": "2026-02-13",
       "first_price": 220000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r143219756": {
       "house_number": "",
@@ -3568,7 +3718,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/143219756",
       "first_seen": "2026-02-13",
       "first_price": 240000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170667374": {
       "street": "Mary Herbert Street",
@@ -3610,7 +3761,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167134517",
       "first_seen": "2026-02-13",
       "first_price": 490000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171288578": {
       "house_number": "",
@@ -3633,7 +3785,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171288578",
       "first_seen": "2026-02-13",
       "first_price": 350000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171148943": {
       "house_number": "",
@@ -3656,7 +3809,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171148943",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168854525": {
       "house_number": "",
@@ -3679,7 +3833,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168854525",
       "first_seen": "2026-02-13",
       "first_price": 285000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171020243": {
       "house_number": "",
@@ -3702,7 +3857,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171020243",
       "first_seen": "2026-02-13",
       "first_price": 475000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168662453": {
       "house_number": "",
@@ -3725,7 +3881,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168662453",
       "first_seen": "2026-02-13",
       "first_price": 420000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166285283": {
       "house_number": "",
@@ -3748,7 +3905,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166285283",
       "first_seen": "2026-02-13",
       "first_price": 255000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165609509": {
       "house_number": "",
@@ -3771,7 +3929,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165609509",
       "first_seen": "2026-02-13",
       "first_price": 350000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r157572350": {
       "street": "Ulverscroft Road",
@@ -3812,7 +3971,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171388208",
       "first_seen": "2026-02-13",
       "first_price": 330000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r161737379": {
       "house_number": "",
@@ -3835,7 +3995,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/161737379",
       "first_seen": "2026-02-13",
       "first_price": 425000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171489530": {
       "house_number": "",
@@ -3858,7 +4019,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171489530",
       "first_seen": "2026-02-13",
       "first_price": 335000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162973673": {
       "house_number": "",
@@ -3881,7 +4043,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/162973673",
       "first_seen": "2026-02-13",
       "first_price": 450000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166384832": {
       "street": "Frankpledge Road",
@@ -3942,7 +4105,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169415702",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166556129": {
       "house_number": "",
@@ -3965,7 +4129,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166556129",
       "first_seen": "2026-02-13",
       "first_price": 265000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170638118": {
       "house_number": "",
@@ -3988,7 +4153,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170638118",
       "first_seen": "2026-02-13",
       "first_price": 475000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169665509": {
       "house_number": "",
@@ -4011,7 +4177,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169665509",
       "first_seen": "2026-02-13",
       "first_price": 370000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r163375898": {
       "house_number": "",
@@ -4034,7 +4201,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/163375898",
       "first_seen": "2026-02-13",
       "first_price": 500000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168639746": {
       "house_number": "",
@@ -4057,7 +4225,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168639746",
       "first_seen": "2026-02-13",
       "first_price": 375000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172026251": {
       "house_number": "",
@@ -4080,7 +4249,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172026251",
       "first_seen": "2026-02-13",
       "first_price": 260000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171587855": {
       "street": "Oddicombe Croft",
@@ -4122,7 +4292,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167620778",
       "first_seen": "2026-02-13",
       "first_price": 330000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171048887": {
       "house_number": "",
@@ -4145,7 +4316,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171048887",
       "first_seen": "2026-02-13",
       "first_price": 121950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169117733": {
       "house_number": "",
@@ -4168,7 +4340,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169117733",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168076118": {
       "street": "Lichfield Road",
@@ -4209,7 +4382,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167079536",
       "first_seen": "2026-02-13",
       "first_price": 340000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167157266": {
       "house_number": "",
@@ -4232,7 +4406,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167157266",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170627501": {
       "house_number": "",
@@ -4255,7 +4430,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170627501",
       "first_seen": "2026-02-13",
       "first_price": 550000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87439305": {
       "street": "Shortley Road",
@@ -4297,7 +4473,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87492546",
       "first_seen": "2026-02-13",
       "first_price": 435000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167839049": {
       "house_number": "",
@@ -4320,7 +4497,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167839049",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166736078": {
       "house_number": "",
@@ -4343,7 +4521,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166736078",
       "first_seen": "2026-02-13",
       "first_price": 269500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167269853": {
       "house_number": "",
@@ -4366,7 +4545,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167269853",
       "first_seen": "2026-02-13",
       "first_price": 425000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167111741": {
       "house_number": "",
@@ -4389,7 +4569,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167111741",
       "first_seen": "2026-02-13",
       "first_price": 126000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r159611024": {
       "street": "Charminster Drive",
@@ -4450,7 +4631,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87492549",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168080915": {
       "house_number": "",
@@ -4473,7 +4655,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168080915",
       "first_seen": "2026-02-13",
       "first_price": 460000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166381535": {
       "house_number": "",
@@ -4496,7 +4679,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166381535",
       "first_seen": "2026-02-13",
       "first_price": 340000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r161343647": {
       "house_number": "",
@@ -4519,7 +4703,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/161343647",
       "first_seen": "2026-02-13",
       "first_price": 550000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168685094": {
       "house_number": "",
@@ -4542,7 +4727,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168685094",
       "first_seen": "2026-02-13",
       "first_price": 369500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r160955471": {
       "house_number": "",
@@ -4565,7 +4751,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/160955471",
       "first_seen": "2026-02-13",
       "first_price": 225000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171443087": {
       "house_number": "",
@@ -4588,7 +4775,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171443087",
       "first_seen": "2026-02-13",
       "first_price": 275000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r143318177": {
       "house_number": "",
@@ -4611,7 +4799,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/143318177",
       "first_seen": "2026-02-13",
       "first_price": 260000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171732143": {
       "street": "Benedictine Road",
@@ -4653,7 +4842,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171890018",
       "first_seen": "2026-02-13",
       "first_price": 425000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171999044": {
       "street": "St. Christians Croft",
@@ -11318,7 +11508,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170364668",
       "first_seen": "2026-02-13",
       "first_price": 539000,
-      "status": "UNDER OFFER",
+      "status": "SOLD STC",
       "withdrawn_date": "2026-02-23"
     },
     "r161234765": {
@@ -11337,7 +11527,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/161234765",
       "first_seen": "2026-02-13",
       "first_price": 539000,
-      "status": "UNDER OFFER",
+      "status": "SOLD STC",
       "withdrawn_date": "2026-02-23"
     },
     "r158779421": {
@@ -17881,7 +18071,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87303600",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "UNDER OFFER",
+      "status": "SOLD STC",
       "withdrawn_date": "2026-02-23"
     },
     "r171436991": {
@@ -29526,7 +29716,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172218011",
       "first_seen": "2026-02-16",
       "first_price": 295000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167791559": {
       "house_number": "",
@@ -29549,7 +29740,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167791559",
       "first_seen": "2026-02-16",
       "first_price": 185000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171592550": {
       "house_number": "",
@@ -29572,7 +29764,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171592550",
       "first_seen": "2026-02-16",
       "first_price": 230000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170762198": {
       "house_number": "",
@@ -29595,7 +29788,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170762198",
       "first_seen": "2026-02-16",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172154804": {
       "street": "Mary Herbert Street",
@@ -29637,7 +29831,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172179236",
       "first_seen": "2026-02-16",
       "first_price": 370000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164472008": {
       "house_number": "",
@@ -29660,7 +29855,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164472008",
       "first_seen": "2026-02-16",
       "first_price": 370000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172165283": {
       "street": "Dunchurch Highway",
@@ -30481,7 +30677,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172294724",
       "first_seen": "2026-02-23",
       "first_price": 125000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172349642": {
       "house_number": "",
@@ -30504,7 +30701,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172349642",
       "first_seen": "2026-02-23",
       "first_price": 120000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172430183": {
       "house_number": "",
@@ -30527,7 +30725,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172430183",
       "first_seen": "2026-02-23",
       "first_price": 109950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172354949": {
       "house_number": "",
@@ -30550,7 +30749,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172354949",
       "first_seen": "2026-02-23",
       "first_price": 140000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172437593": {
       "house_number": "",
@@ -30573,7 +30773,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172437593",
       "first_seen": "2026-02-23",
       "first_price": 185000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172474610": {
       "house_number": "",
@@ -30596,7 +30797,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172474610",
       "first_seen": "2026-02-23",
       "first_price": 92500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166206260": {
       "house_number": "",
@@ -30619,7 +30821,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166206260",
       "first_seen": "2026-02-23",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172276373": {
       "house_number": "",
@@ -30642,7 +30845,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172276373",
       "first_seen": "2026-02-23",
       "first_price": 385000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172302893": {
       "house_number": "",
@@ -30665,7 +30869,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172302893",
       "first_seen": "2026-02-23",
       "first_price": 215000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172185101": {
       "house_number": "",
@@ -30688,7 +30893,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172185101",
       "first_seen": "2026-02-23",
       "first_price": 29000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172322204": {
       "house_number": "",
@@ -30711,7 +30917,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172322204",
       "first_seen": "2026-02-23",
       "first_price": 117500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87625965": {
       "house_number": "",
@@ -30734,7 +30941,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87625965",
       "first_seen": "2026-02-23",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r159495239": {
       "house_number": "",
@@ -30757,7 +30965,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159495239",
       "first_seen": "2026-02-23",
       "first_price": 275000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171915194": {
       "house_number": "",
@@ -30780,7 +30989,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171915194",
       "first_seen": "2026-02-23",
       "first_price": 175000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170515847": {
       "house_number": "",
@@ -30803,7 +31013,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170515847",
       "first_seen": "2026-02-23",
       "first_price": 165000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172268897": {
       "house_number": "",
@@ -30826,7 +31037,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172268897",
       "first_seen": "2026-02-23",
       "first_price": 425000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172446320": {
       "house_number": "",
@@ -30849,7 +31061,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172446320",
       "first_seen": "2026-02-23",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172269404": {
       "house_number": "",
@@ -30872,7 +31085,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172269404",
       "first_seen": "2026-02-23",
       "first_price": 310000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172097267": {
       "house_number": "",
@@ -30895,7 +31109,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172097267",
       "first_seen": "2026-02-23",
       "first_price": 460000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172432727": {
       "street": "Gillquart Way",
