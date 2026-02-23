@@ -1,0 +1,51 @@
+name: EPC Mailing List Generator
+
+on:
+  workflow_dispatch:
+    inputs:
+      epc_max_age_months:
+        description: 'How many months back to look for EPCs'
+        required: false
+        default: '18'
+      min_price:
+        description: 'Minimum asking price (0 = no filter)'
+        required: false
+        default: '0'
+      max_price:
+        description: 'Maximum asking price (99999999 = no filter)'
+        required: false
+        default: '99999999'
+
+jobs:
+  generate-mailing-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: |
+          cd scanner
+          npm install node-fetch
+
+      - name: Run EPC target
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          EPC_MAX_AGE_MONTHS: ${{ github.event.inputs.epc_max_age_months }}
+          MIN_PRICE: ${{ github.event.inputs.min_price }}
+          MAX_PRICE: ${{ github.event.inputs.max_price }}
+        run: node scanner/epc-import-and-target.js --target
+
+      - name: Upload mailing list CSV
+        uses: actions/upload-artifact@v4
+        with:
+          name: mailing-list-${{ github.run_id }}
+          path: cv-mailing-list-*.csv
+          retention-days: 30
