@@ -36,6 +36,19 @@
       "matched_listings": 1203,
       "matched_properties": 14983,
       "pushed_to_supabase": true
+    },
+    {
+      "date": "2026-02-23",
+      "time": "125537",
+      "total_active": 1509,
+      "new_listings": 174,
+      "withdrawn": 209,
+      "price_reduced": 65,
+      "listing_changes_logged": 448,
+      "cost": 3.900000000000002,
+      "matched_listings": 1189,
+      "matched_properties": 15012,
+      "pushed_to_supabase": true
     }
   ],
   "listings": {
@@ -145,7 +158,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168948707",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r167588540": {
       "street": "Priory Place",
@@ -511,7 +524,7 @@
       "street": "Manor House Drive",
       "postcode": "CV1 2EA",
       "town": "COVENTRY",
-      "price": 130000,
+      "price": 120000,
       "agent": "Reeds Rains",
       "branch": "Coventry",
       "listed_date": "2025-11-12",
@@ -745,7 +758,7 @@
       "street": "Lower Ford Street",
       "postcode": "CV1 5PA",
       "town": "COVENTRY",
-      "price": 125000,
+      "price": 128000,
       "agent": "Let Property Sales & Management",
       "branch": "Glasgow",
       "listed_date": "2024-09-19",
@@ -961,7 +974,7 @@
       "street": "Swan Lane",
       "postcode": "CV2 4GE",
       "town": "COVENTRY",
-      "price": 270000,
+      "price": 250000,
       "agent": "Cloud9 Estates Ltd",
       "branch": "Coventry",
       "listed_date": "2025-01-25",
@@ -1141,7 +1154,7 @@
       "street": "Goring Road",
       "postcode": "CV2 4LU",
       "town": "COVENTRY",
-      "price": 114000,
+      "price": 110000,
       "agent": "Red Brick Sales & Lettings",
       "branch": "Coventry",
       "listed_date": "2025-11-14",
@@ -1159,7 +1172,7 @@
       "street": "Nicholls Street",
       "postcode": "CV2 4GQ",
       "town": "COVENTRY",
-      "price": 145000,
+      "price": 135000,
       "agent": "haart",
       "branch": "Coventry",
       "listed_date": "2026-02-03",
@@ -1177,7 +1190,7 @@
       "street": "Nicholls Street",
       "postcode": "CV2 4GQ",
       "town": "COVENTRY",
-      "price": 145000,
+      "price": 135000,
       "agent": "Sheldon Bosley Knight",
       "branch": "Coventry",
       "listed_date": "2026-01-16",
@@ -1249,7 +1262,7 @@
       "street": "Hastings Road",
       "postcode": "CV2 4JE",
       "town": "COVENTRY",
-      "price": 180000,
+      "price": 170000,
       "agent": "Connells",
       "branch": "Coventry",
       "listed_date": "2025-11-06",
@@ -1267,7 +1280,7 @@
       "street": "Hastings Road",
       "postcode": "CV2 4JE",
       "town": "COVENTRY",
-      "price": 180000,
+      "price": 170000,
       "agent": "Up Estates",
       "branch": "Coventry",
       "listed_date": "2025-09-26",
@@ -1315,7 +1328,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172040744",
       "first_seen": "2026-02-13",
       "first_price": 145000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r161028368": {
       "street": "Signet Square",
@@ -1483,7 +1497,7 @@
       "street": "Catherine Street",
       "postcode": "CV2 4HA",
       "town": "COVENTRY",
-      "price": 155000,
+      "price": 150000,
       "agent": "Up Estates",
       "branch": "Coventry",
       "listed_date": "2025-01-14",
@@ -1513,7 +1527,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165235400",
       "first_seen": "2026-02-13",
       "first_price": 145000,
-      "status": "Active"
+      "status": "SOLD",
+      "withdrawn_date": "2026-02-23"
     },
     "r137333051": {
       "street": "King Richard Street",
@@ -1609,7 +1624,7 @@
       "street": "Walsgrave Road",
       "postcode": "CV2 4EB",
       "town": "COVENTRY",
-      "price": 160000,
+      "price": 130000,
       "agent": "Purplebricks",
       "branch": "covering Coventry",
       "listed_date": "2025-08-19",
@@ -1729,7 +1744,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171446645",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r165902657": {
       "street": "Milton Street",
@@ -1891,7 +1907,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87573633",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164918117": {
       "street": "Orion Crescent",
@@ -2143,7 +2160,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171627482",
       "first_seen": "2026-02-13",
       "first_price": 220000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r168550274": {
       "street": "Wavendon Close",
@@ -2161,7 +2179,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168550274",
       "first_seen": "2026-02-13",
       "first_price": 210000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172012019": {
       "street": "Wedgewood Close",
@@ -2197,7 +2216,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167856602",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171690065": {
       "street": "Norman Avenue",
@@ -2251,7 +2271,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/144167942",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171642179": {
       "street": "Woodway Lane",
@@ -2269,7 +2290,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171642179",
       "first_seen": "2026-02-13",
       "first_price": 100000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170596853": {
       "street": "Luscombe Road",
@@ -2401,7 +2423,7 @@
       "street": "Co-Operative Street",
       "postcode": "CV2 1PT",
       "town": "COVENTRY",
-      "price": 140000,
+      "price": 120000,
       "agent": "Connells",
       "branch": "Coventry",
       "listed_date": "2026-02-11",
@@ -2419,7 +2441,7 @@
       "street": "Lentons Lane",
       "postcode": "CV2 1NW",
       "town": "COVENTRY",
-      "price": 325000,
+      "price": 320000,
       "agent": "Your Dream Pad",
       "branch": "Coventry",
       "listed_date": "2025-08-29",
@@ -2485,7 +2507,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169917059",
       "first_seen": "2026-02-13",
       "first_price": 270000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r168006995": {
       "street": "Aldermans Green Road",
@@ -2521,7 +2544,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172019189",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r167412017": {
       "street": "Aldermans Green Road",
@@ -2683,7 +2706,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87336174",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172056149": {
       "street": "Chaceley Close",
@@ -2719,7 +2743,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168350060",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r166967963": {
       "street": "Berkswell Road",
@@ -2773,7 +2797,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168484559",
       "first_seen": "2026-02-13",
       "first_price": 185000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r167037542": {
       "street": "Crecy Road",
@@ -2863,7 +2888,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170667374",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167134517": {
       "street": "Newby Close",
@@ -3025,7 +3051,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/157572350",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r171388208": {
       "street": "Daventry Road",
@@ -3115,7 +3141,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166384832",
       "first_seen": "2026-02-13",
       "first_price": 330000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169207670": {
       "street": "Frankpledge Road",
@@ -3133,7 +3160,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169207670",
       "first_seen": "2026-02-13",
       "first_price": 330000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169415702": {
       "street": "Courtleet Road",
@@ -3277,7 +3305,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171587855",
       "first_seen": "2026-02-13",
       "first_price": 525000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r167620778": {
       "street": "Galeys Road",
@@ -3421,13 +3450,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87439305",
       "first_seen": "2026-02-13",
       "first_price": 230000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87492546": {
       "street": "Watercall Avenue",
       "postcode": "CV3 5AW",
       "town": "COVENTRY",
-      "price": 435000,
+      "price": 420000,
       "agent": "Walmsley's The Way to Move",
       "branch": "Coventry",
       "listed_date": "2026-01-09",
@@ -3529,7 +3559,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159611024",
       "first_seen": "2026-02-13",
       "first_price": 120000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165608711": {
       "street": "Silksby Street",
@@ -3547,7 +3578,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165608711",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87492549": {
       "street": "Cornelius Street",
@@ -3799,7 +3831,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170037521",
       "first_seen": "2026-02-13",
       "first_price": 525000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162224828": {
       "street": "Butterworth Drive",
@@ -4357,7 +4390,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171469013",
       "first_seen": "2026-02-13",
       "first_price": 525000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172142927": {
       "street": "Cromwell Lane",
@@ -4417,7 +4451,7 @@
       "street": "Charter Avenue",
       "postcode": "CV4 8AT",
       "town": "COVENTRY",
-      "price": 270000,
+      "price": 260000,
       "agent": "Bayzos Estate Agents",
       "branch": "Coventry",
       "listed_date": "2025-11-25",
@@ -4591,7 +4625,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170129303",
       "first_seen": "2026-02-13",
       "first_price": 400000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87375147": {
       "street": "Westcotes",
@@ -4609,7 +4644,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87375147",
       "first_seen": "2026-02-13",
       "first_price": 230000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r160597220": {
       "street": "Tile Hill Lane",
@@ -4663,7 +4699,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166841669",
       "first_seen": "2026-02-13",
       "first_price": 650000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171960308": {
       "street": "Eastcotes",
@@ -4681,7 +4718,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171960308",
       "first_seen": "2026-02-13",
       "first_price": 220000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172078703": {
       "street": "Middlecotes",
@@ -4885,7 +4923,7 @@
       "street": "Larch Tree Avenue",
       "postcode": "CV4 9FT",
       "town": "COVENTRY",
-      "price": 275000,
+      "price": 260000,
       "agent": "Foster Lewis & Co",
       "branch": "Coventry",
       "listed_date": "2026-01-19",
@@ -5059,7 +5097,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172040747",
       "first_seen": "2026-02-13",
       "first_price": 230000,
-      "status": "Active"
+      "status": "SOLD",
+      "withdrawn_date": "2026-02-23"
     },
     "r170330837": {
       "street": "Broad Lane",
@@ -5095,13 +5134,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169027919",
       "first_seen": "2026-02-13",
       "first_price": 120000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171186464": {
       "street": "Chenies Close",
       "postcode": "CV5 9HR",
       "town": "COVENTRY",
-      "price": 275000,
+      "price": 260000,
       "agent": "Up Estates",
       "branch": "Coventry",
       "listed_date": "2026-01-19",
@@ -5131,7 +5171,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170635868",
       "first_seen": "2026-02-13",
       "first_price": 220000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171001007": {
       "street": "Buckingham Rise",
@@ -5257,7 +5298,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170658335",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r165452945": {
       "street": "The Glade",
@@ -5275,7 +5317,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165452945",
       "first_seen": "2026-02-13",
       "first_price": 170000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171485345": {
       "street": "Broad Lane",
@@ -5365,7 +5408,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171713516",
       "first_seen": "2026-02-13",
       "first_price": 235000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r166766378": {
       "street": "Wendover Rise",
@@ -5653,7 +5697,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170952386",
       "first_seen": "2026-02-13",
       "first_price": 550000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170782256": {
       "street": "Berkeley Road South",
@@ -5713,7 +5758,7 @@
       "street": "Providence Street",
       "postcode": "CV5 6ED",
       "town": "COVENTRY",
-      "price": 340000,
+      "price": 335000,
       "agent": "Williams and Binch",
       "branch": "Coventry",
       "listed_date": "2025-07-21",
@@ -6193,7 +6238,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171432911",
       "first_seen": "2026-02-13",
       "first_price": 520000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171786293": {
       "street": "Spencer Avenue",
@@ -6211,7 +6257,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171786293",
       "first_seen": "2026-02-13",
       "first_price": 450000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170200175": {
       "street": "Dalton Road",
@@ -6229,7 +6276,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170200175",
       "first_seen": "2026-02-13",
       "first_price": 240000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170199320": {
       "street": "Spencer Avenue",
@@ -6247,7 +6295,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170199320",
       "first_seen": "2026-02-13",
       "first_price": 560000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162887720": {
       "street": "Spencer Avenue",
@@ -6265,7 +6314,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/162887720",
       "first_seen": "2026-02-13",
       "first_price": 480000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169156121": {
       "street": "Green Lane",
@@ -6283,7 +6333,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169156121",
       "first_seen": "2026-02-13",
       "first_price": 375000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162508292": {
       "street": "Wall Hill Road",
@@ -6319,7 +6370,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170902229",
       "first_seen": "2026-02-13",
       "first_price": 499950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r167167052": {
       "street": "Wall Hill Road",
@@ -6445,7 +6497,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170780309",
       "first_seen": "2026-02-13",
       "first_price": 365000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169926647": {
       "street": "Bastille Gate",
@@ -6463,7 +6516,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169926647",
       "first_seen": "2026-02-13",
       "first_price": 294000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170898152": {
       "street": "Henry Wychard Drive",
@@ -6481,7 +6535,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170898152",
       "first_seen": "2026-02-13",
       "first_price": 355000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171966794": {
       "street": "Henry Baxter Drive",
@@ -6571,7 +6626,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/160520168",
       "first_seen": "2026-02-13",
       "first_price": 700000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r168065942": {
       "street": "Wickham Close",
@@ -6667,7 +6723,7 @@
       "street": "Roger Blythebrook Avenue",
       "postcode": "CV7 8RX",
       "town": "COVENTRY",
-      "price": 330000,
+      "price": 315000,
       "agent": "Up Estates",
       "branch": "Coventry",
       "listed_date": "2025-12-09",
@@ -6714,8 +6770,8 @@
       "listing_id": "r164704187",
       "rightmove_url": "https://www.rightmove.co.uk/properties/164704187",
       "first_seen": "2026-02-13",
-      "status": "SOLD STC",
-      "withdrawn_date": "2026-02-16"
+      "first_price": 750000,
+      "status": "NEW"
     },
     "r168656171": {
       "street": "Overslade Crescent",
@@ -6769,7 +6825,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171288968",
       "first_seen": "2026-02-13",
       "first_price": 235000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87336516": {
       "street": "Tamworth Road",
@@ -6805,7 +6862,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171651680",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170836298": {
       "street": "Eversleigh Road",
@@ -6913,7 +6971,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170299286",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r157171997": {
       "street": "Benson Road",
@@ -6967,7 +7026,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165029744",
       "first_seen": "2026-02-13",
       "first_price": 475000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164790257": {
       "street": "Whitelaw Crescent",
@@ -7129,7 +7189,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171536039",
       "first_seen": "2026-02-13",
       "first_price": 375000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171062210": {
       "street": "Stevenson Road",
@@ -7182,8 +7243,8 @@
       "listing_id": "r170930033",
       "rightmove_url": "https://www.rightmove.co.uk/properties/170930033",
       "first_seen": "2026-02-13",
-      "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169526093": {
       "street": "Loudon Avenue",
@@ -7225,7 +7286,7 @@
       "street": "Barkers Butts Lane",
       "postcode": "CV6 1BF",
       "town": "COVENTRY",
-      "price": 140000,
+      "price": 139000,
       "agent": "Foster Lewis & Co",
       "branch": "Coventry",
       "listed_date": "2025-10-17",
@@ -7957,7 +8018,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171031922",
       "first_seen": "2026-02-13",
       "first_price": 240000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r167378966": {
       "street": "Cedars Avenue",
@@ -7975,7 +8037,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167378966",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162866984": {
       "street": "Otterbrook Court",
@@ -8017,7 +8080,7 @@
       "street": "Lydgate Road",
       "postcode": "CV6 3BZ",
       "town": "COVENTRY",
-      "price": 325000,
+      "price": 290000,
       "agent": "Bairstow Eves",
       "branch": "Radford",
       "listed_date": "2026-02-06",
@@ -8053,7 +8116,7 @@
       "street": "Rotherham Road",
       "postcode": "CV6 4FF",
       "town": "COVENTRY",
-      "price": 220000,
+      "price": 210000,
       "agent": "Bairstow Eves",
       "branch": "Radford",
       "listed_date": "2026-01-21",
@@ -8089,7 +8152,7 @@
       "street": "Holborn Avenue",
       "postcode": "CV6 4FZ",
       "town": "COVENTRY",
-      "price": 175000,
+      "price": 160000,
       "agent": "Bettermove",
       "branch": "Nationwide",
       "listed_date": "2025-12-02",
@@ -8155,7 +8218,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168303386",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172106969": {
       "street": "Ladymead Drive",
@@ -8299,7 +8363,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170945669",
       "first_seen": "2026-02-13",
       "first_price": 230000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171661568": {
       "street": "Gateside Road",
@@ -8323,7 +8388,7 @@
       "street": "Lauderdale Avenue",
       "postcode": "CV6 4LJ",
       "town": "COVENTRY",
-      "price": 200000,
+      "price": 185000,
       "agent": "Suttons",
       "branch": "Coventry",
       "listed_date": "2025-12-26",
@@ -8389,7 +8454,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171556241",
       "first_seen": "2026-02-13",
       "first_price": 185000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172143404": {
       "street": "Kirkdale Avenue",
@@ -8425,7 +8491,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170331248",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r171330950": {
       "street": "Chesholme Road",
@@ -8443,7 +8509,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171330950",
       "first_seen": "2026-02-13",
       "first_price": 245000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r148290872": {
       "street": "Victory Road",
@@ -8479,7 +8546,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158046662",
       "first_seen": "2026-02-13",
       "first_price": 170000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172144163": {
       "street": "Charlewood Road",
@@ -8659,7 +8727,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164658116",
       "first_seen": "2026-02-13",
       "first_price": 170000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170285513": {
       "street": "Catesby Road",
@@ -8677,7 +8746,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170285513",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r168487373": {
       "street": "Parkville Highway",
@@ -8695,7 +8765,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168487373",
       "first_seen": "2026-02-13",
       "first_price": 240000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171627890": {
       "street": "Rollason Road",
@@ -8803,7 +8874,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164835557",
       "first_seen": "2026-02-13",
       "first_price": 85000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169815761": {
       "street": "Parkville Highway",
@@ -8821,7 +8893,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169815761",
       "first_seen": "2026-02-13",
       "first_price": 275000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170668742": {
       "street": "Blackwatch Road",
@@ -8857,7 +8930,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172129268",
       "first_seen": "2026-02-13",
       "first_price": 180000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169570577": {
       "street": "Nunts Lane",
@@ -8983,7 +9057,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171737270",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171612953": {
       "street": "Sandy Lane",
@@ -9066,7 +9141,7 @@
       "branch": "Coventry",
       "listed_date": "2025-12-03",
       "bedrooms": 2,
-      "bathrooms": 1,
+      "bathrooms": 2,
       "property_type": "Flats/Maisonettes",
       "source": "rightmove",
       "listing_id": "r169971290",
@@ -9235,7 +9310,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/136125743",
       "first_seen": "2026-02-13",
       "first_price": 225000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87501483": {
       "street": "Canal View",
@@ -9289,13 +9365,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167109746",
       "first_seen": "2026-02-13",
       "first_price": 125000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r166378643": {
       "street": "Aldbourne Road",
       "postcode": "CV1 4BA",
       "town": "COVENTRY",
-      "price": 133000,
+      "price": 120000,
       "agent": "Coopers",
       "branch": "Coventry",
       "listed_date": "2025-08-29",
@@ -9325,7 +9402,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167965547",
       "first_seen": "2026-02-13",
       "first_price": 210000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r160917902": {
       "street": "Quayside Court",
@@ -9469,7 +9547,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/162023375",
       "first_seen": "2026-02-13",
       "first_price": 215000,
-      "status": "Active"
+      "status": "SOLD",
+      "withdrawn_date": "2026-02-23"
     },
     "r165229955": {
       "street": "Sadler Road",
@@ -9583,7 +9662,7 @@
       "street": "Albert Crescent",
       "postcode": "CV6 2GG",
       "town": "COVENTRY",
-      "price": 240000,
+      "price": 230000,
       "agent": "Bayzos Estate Agents",
       "branch": "Coventry",
       "listed_date": "2026-01-05",
@@ -9685,7 +9764,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/163768232",
       "first_seen": "2026-02-13",
       "first_price": 500000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170138723": {
       "street": "Kenilworth Road",
@@ -9973,7 +10053,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170319713",
       "first_seen": "2026-02-13",
       "first_price": 169950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r128577299": {
       "street": "Kenilworth Road",
@@ -10081,7 +10162,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158779421",
       "first_seen": "2026-02-13",
       "first_price": 750000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171446891": {
       "street": "Kemps Green Road",
@@ -10231,7 +10313,7 @@
       "street": "Asbury Road",
       "postcode": "CV7 7QN",
       "town": "COVENTRY",
-      "price": 715000,
+      "price": 700000,
       "agent": "Bayzos Estate Agents",
       "branch": "Coventry",
       "listed_date": "2025-12-26",
@@ -10303,7 +10385,7 @@
       "street": "Coplow Close",
       "postcode": "CV7 7PQ",
       "town": "COVENTRY",
-      "price": 320000,
+      "price": 310000,
       "agent": "Xact Homes",
       "branch": "Balsall Common",
       "listed_date": "2025-08-05",
@@ -10351,7 +10433,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168834407",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169304633": {
       "street": "Kenilworth Road",
@@ -10531,7 +10614,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171230900",
       "first_seen": "2026-02-13",
       "first_price": 1000000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170220137": {
       "street": "Lancaster Place",
@@ -10549,7 +10633,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170220137",
       "first_seen": "2026-02-13",
       "first_price": 359950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169792367": {
       "street": "Moorlands Avenue",
@@ -10603,7 +10688,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165667103",
       "first_seen": "2026-02-13",
       "first_price": 485000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169811519": {
       "street": "Whites Row",
@@ -10753,7 +10839,7 @@
       "street": "St. Marys Court",
       "postcode": "CV8 1JH",
       "town": "KENILWORTH",
-      "price": 415000,
+      "price": 400000,
       "agent": "Boothroyd & Company",
       "branch": "Kenilworth",
       "listed_date": "2026-01-17",
@@ -10819,7 +10905,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158353004",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r164565521": {
       "street": "Waverley Road",
@@ -10891,7 +10978,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169907438",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r170636645": {
       "street": "Warwick Road",
@@ -11041,7 +11128,7 @@
       "street": "Barrowfield Lane",
       "postcode": "CV8 1EP",
       "town": "KENILWORTH",
-      "price": 190000,
+      "price": 179950,
       "agent": "Boothroyd & Company",
       "branch": "Kenilworth",
       "listed_date": "2026-01-15",
@@ -11125,7 +11212,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170754794",
       "first_seen": "2026-02-13",
       "first_price": 650000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r160577525": {
       "street": "Thomas Bates Road",
@@ -11179,13 +11267,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/155109815",
       "first_seen": "2026-02-13",
       "first_price": 169950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r158871413": {
       "street": "Abbey End",
       "postcode": "CV8 1QJ",
       "town": "KENILWORTH",
-      "price": 250000,
+      "price": 245000,
       "agent": "haart",
       "branch": "Kenilworth",
       "listed_date": "2025-03-01",
@@ -11221,7 +11310,7 @@
       "street": "Southbank Road",
       "postcode": "CV8 1RX",
       "town": "KENILWORTH",
-      "price": 250000,
+      "price": 245000,
       "agent": "McCarthy & Stone Resales",
       "branch": "Bournemouth",
       "listed_date": "2025-08-08",
@@ -11287,7 +11376,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172084190",
       "first_seen": "2026-02-13",
       "first_price": 179950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170128598": {
       "street": "Ebourne Close",
@@ -11413,7 +11503,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87607158",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r171080333": {
       "street": "Elmdene Road",
@@ -11449,7 +11539,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87515175",
       "first_seen": "2026-02-13",
       "first_price": 389950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r164047331": {
       "street": "Nason Grove",
@@ -11484,8 +11575,8 @@
       "listing_id": "r171816950",
       "rightmove_url": "https://www.rightmove.co.uk/properties/171816950",
       "first_seen": "2026-02-13",
-      "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "first_price": 575000,
+      "status": "Active"
     },
     "r162558707": {
       "street": "Sturley Close",
@@ -11521,7 +11612,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170427515",
       "first_seen": "2026-02-13",
       "first_price": 350000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171090059": {
       "street": "Sturley Close",
@@ -11647,7 +11739,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159438821",
       "first_seen": "2026-02-13",
       "first_price": 345000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169905686": {
       "street": "Dalehouse Lane",
@@ -11683,7 +11776,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167869952",
       "first_seen": "2026-02-13",
       "first_price": 395000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r168206678": {
       "street": "Elmdene Road",
@@ -11809,7 +11903,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166455071",
       "first_seen": "2026-02-13",
       "first_price": 230000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r165254786": {
       "street": "Dalehouse Lane",
@@ -11869,7 +11964,7 @@
       "street": "Mill End",
       "postcode": "CV8 2HP",
       "town": "KENILWORTH",
-      "price": 315000,
+      "price": 307500,
       "agent": "Julie Philpot",
       "branch": "Kenilworth",
       "listed_date": "2025-05-16",
@@ -12115,7 +12210,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169683389",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "SOLD",
+      "withdrawn_date": "2026-02-23"
     },
     "r168525419": {
       "street": "Camelot Grove",
@@ -12151,7 +12247,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169680479",
       "first_seen": "2026-02-13",
       "first_price": 112000,
-      "status": "Active"
+      "status": "SOLD",
+      "withdrawn_date": "2026-02-23"
     },
     "r171060368": {
       "street": "Turton Way",
@@ -12241,7 +12338,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164901815",
       "first_seen": "2026-02-13",
       "first_price": 195000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172059617": {
       "street": "Spring Lane",
@@ -12295,7 +12393,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167405996",
       "first_seen": "2026-02-13",
       "first_price": 182500,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170885870": {
       "street": "Spring Lane",
@@ -12493,7 +12592,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171845117",
       "first_seen": "2026-02-13",
       "first_price": 290000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168542192": {
       "street": "Church Walk",
@@ -12511,7 +12611,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168542192",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r164250701": {
       "street": "Church Walk",
@@ -12547,7 +12648,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169444982",
       "first_seen": "2026-02-13",
       "first_price": 215000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r159773072": {
       "street": "Herring Road",
@@ -12601,7 +12703,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165520901",
       "first_seen": "2026-02-13",
       "first_price": 310000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171447068": {
       "street": "Herring Road",
@@ -12691,7 +12794,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170951888",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170930501": {
       "street": "",
@@ -12925,7 +13029,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170851868",
       "first_seen": "2026-02-13",
       "first_price": 399950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171506219": {
       "street": "Warwick Drive",
@@ -12979,7 +13084,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/162067241",
       "first_seen": "2026-02-13",
       "first_price": 600000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170794373": {
       "street": "Green Lane",
@@ -13165,7 +13271,7 @@
       "street": "Rocheford Way",
       "postcode": "CV9 2FR",
       "town": "ATHERSTONE",
-      "price": 279950,
+      "price": 270000,
       "agent": "Mark Webster Estate Agents",
       "branch": "Atherstone",
       "listed_date": "2026-02-04",
@@ -13266,8 +13372,8 @@
       "listing_id": "r165101297",
       "rightmove_url": "https://www.rightmove.co.uk/properties/165101297",
       "first_seen": "2026-02-13",
-      "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "first_price": 420000,
+      "status": "Active"
     },
     "r171096272": {
       "street": "Whitebeam Way",
@@ -13303,7 +13409,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168112781",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r172086377": {
       "street": "Windmill Road",
@@ -13327,7 +13433,7 @@
       "street": "Camp Hill Road",
       "postcode": "CV10 0JS",
       "town": "NUNEATON",
-      "price": 240000,
+      "price": 230000,
       "agent": "Wilkins Estate Agents",
       "branch": "Nuneaton",
       "listed_date": "2026-01-29",
@@ -13501,7 +13607,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166667759",
       "first_seen": "2026-02-13",
       "first_price": 225000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170829914": {
       "street": "Eden Court",
@@ -13651,7 +13758,7 @@
       "street": "Ashwood Road",
       "postcode": "CV10 9AY",
       "town": "NUNEATON",
-      "price": 170000,
+      "price": 160000,
       "agent": "Wilkins Estate Agents",
       "branch": "Nuneaton",
       "listed_date": "2025-11-06",
@@ -13789,7 +13896,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/160170221",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r162452762": {
       "street": "Salisbury Drive",
@@ -13831,7 +13938,7 @@
       "street": "Salisbury Drive",
       "postcode": "CV10 9LU",
       "town": "NUNEATON",
-      "price": 190000,
+      "price": 185000,
       "agent": "Pointons",
       "branch": "Nuneaton",
       "listed_date": "2025-12-02",
@@ -14077,7 +14184,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171045185",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169812944": {
       "street": "Bucks Hill",
@@ -14131,7 +14239,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168921299",
       "first_seen": "2026-02-13",
       "first_price": 170000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171860828": {
       "street": "Waltham Crescent",
@@ -14167,7 +14276,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87460140",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169353800": {
       "street": "Kings Meadow",
@@ -14329,7 +14439,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168191657",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r168157661": {
       "street": "Auden Close",
@@ -14437,7 +14548,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167595503",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r170617460": {
       "street": "Coombe Drive",
@@ -14563,7 +14674,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168290759",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r166788605": {
       "street": "Hickman Road",
@@ -14599,7 +14711,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171769640",
       "first_seen": "2026-02-13",
       "first_price": 245000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171515861": {
       "street": "Selby Way",
@@ -14635,7 +14748,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/163571693",
       "first_seen": "2026-02-13",
       "first_price": 275000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171436184": {
       "street": "Frensham Drive",
@@ -14743,7 +14857,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158564948",
       "first_seen": "2026-02-13",
       "first_price": 225000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r168976757": {
       "street": "Merlin Avenue",
@@ -14761,7 +14876,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168976757",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r166077536": {
       "street": "St. Matthews Close",
@@ -14869,7 +14984,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169682150",
       "first_seen": "2026-02-13",
       "first_price": 290000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170909600": {
       "street": "Bentley Road",
@@ -14941,7 +15057,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170224466",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170960420": {
       "street": "Marlborough Road",
@@ -15067,13 +15184,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170763707",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171516365": {
       "street": "Gillett Close",
       "postcode": "CV11 5XW",
       "town": "NUNEATON",
-      "price": 105000,
+      "price": 99950,
       "agent": "TOM BATES ESTATE AGENTS",
       "branch": "Nuneaton",
       "listed_date": "2026-01-27",
@@ -15103,7 +15221,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165032006",
       "first_seen": "2026-02-13",
       "first_price": 80000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r166217069": {
       "street": "Berkeley Close",
@@ -15283,13 +15402,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171827522",
       "first_seen": "2026-02-13",
       "first_price": 235000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r163381118": {
       "street": "Beaumont Place",
       "postcode": "CV11 5HE",
       "town": "NUNEATON",
-      "price": 200000,
+      "price": 190000,
       "agent": "Pointons",
       "branch": "Nuneaton",
       "listed_date": "2025-06-16",
@@ -15355,7 +15475,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/157951976",
       "first_seen": "2026-02-13",
       "first_price": 140000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169190438": {
       "street": "Abbey Street",
@@ -15481,7 +15602,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168656906",
       "first_seen": "2026-02-13",
       "first_price": 149950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r165434609": {
       "street": "Silver Walk",
@@ -15643,7 +15765,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171467543",
       "first_seen": "2026-02-13",
       "first_price": 116500,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170635097": {
       "street": "Devon Close",
@@ -15661,7 +15784,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170635097",
       "first_seen": "2026-02-13",
       "first_price": 140000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170966948": {
       "street": "Coton Road",
@@ -15679,13 +15803,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170966948",
       "first_seen": "2026-02-13",
       "first_price": 105000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171041360": {
       "street": "Devon Close",
       "postcode": "CV10 8ES",
       "town": "NUNEATON",
-      "price": 130000,
+      "price": 127000,
       "agent": "Pointons",
       "branch": "Nuneaton",
       "listed_date": "2026-01-15",
@@ -15859,7 +15984,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167964017",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r160020485": {
       "street": "Clarkson Close",
@@ -16111,7 +16237,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168849317",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r87588222": {
       "street": "Orkney Close",
@@ -16128,8 +16254,8 @@
       "listing_id": "r87588222",
       "rightmove_url": "https://www.rightmove.co.uk/properties/87588222",
       "first_seen": "2026-02-13",
-      "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "first_price": 270000,
+      "status": "Active"
     },
     "r167137064": {
       "street": "Barbridge Road",
@@ -16255,7 +16381,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168195749",
       "first_seen": "2026-02-13",
       "first_price": 150000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87303600": {
       "street": "Arden Road",
@@ -16327,7 +16454,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170456342",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r166299848": {
       "street": "Stafford Close",
@@ -16453,7 +16580,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166812077",
       "first_seen": "2026-02-13",
       "first_price": 220000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170871206": {
       "street": "Bedworth Road",
@@ -16477,7 +16605,7 @@
       "street": "Weston Lane",
       "postcode": "CV12 9RX",
       "town": "BEDWORTH",
-      "price": 875000,
+      "price": 857000,
       "agent": "Alan Cooper Estates",
       "branch": "Nuneaton",
       "listed_date": "2023-05-02",
@@ -16603,7 +16731,7 @@
       "street": "Nuneaton Road",
       "postcode": "CV12 9RZ",
       "town": "BEDWORTH",
-      "price": 300000,
+      "price": 299995,
       "agent": "Reeds Rains",
       "branch": "Bedworth",
       "listed_date": "2026-01-27",
@@ -16621,7 +16749,7 @@
       "street": "Nuneaton Road",
       "postcode": "CV12 9RZ",
       "town": "BEDWORTH",
-      "price": 300000,
+      "price": 299995,
       "agent": "Oughton Cook Estate Agents",
       "branch": "Coventry",
       "listed_date": "2026-01-19",
@@ -16711,7 +16839,7 @@
       "street": "Trent Road",
       "postcode": "CV12 9QD",
       "town": "BEDWORTH",
-      "price": 240000,
+      "price": 235000,
       "agent": "Springbok Properties",
       "branch": "Nationwide",
       "listed_date": "2026-02-10",
@@ -16777,7 +16905,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170502419",
       "first_seen": "2026-02-13",
       "first_price": 340000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r159273938": {
       "street": "Tame Way",
@@ -16867,7 +16996,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168584567",
       "first_seen": "2026-02-13",
       "first_price": 890000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r160168814": {
       "street": "Nuneaton Road",
@@ -17029,7 +17159,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171659762",
       "first_seen": "2026-02-13",
       "first_price": 210000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171374306": {
       "street": "St. Catherines Avenue",
@@ -17161,7 +17292,7 @@
       "street": "Ambion Rise",
       "postcode": "CV13 0NY",
       "town": "NUNEATON",
-      "price": 399995,
+      "price": 390000,
       "agent": "Riva Lily Powered by eXp",
       "branch": "Rothley",
       "listed_date": "2026-01-15",
@@ -17233,7 +17364,7 @@
       "street": "Shenton Lane",
       "postcode": "CV13 0LA",
       "town": "NUNEATON",
-      "price": 399950,
+      "price": 375000,
       "agent": "Alexanders",
       "branch": "Market Bosworth",
       "listed_date": "2025-04-14",
@@ -17299,7 +17430,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171788054",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r168554486": {
       "street": "Barton Road",
@@ -17695,7 +17826,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/163112855",
       "first_seen": "2026-02-13",
       "first_price": 318500,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r156174851": {
       "street": "Spinney Drive",
@@ -17803,7 +17935,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165534224",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r168608645": {
       "street": "Newbold Road",
@@ -17839,7 +17971,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/156141947",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r168038288": {
       "street": "May Meadow Close",
@@ -17911,7 +18043,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169105883",
       "first_seen": "2026-02-13",
       "first_price": 425000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171685331": {
       "street": "Barton Road",
@@ -17929,7 +18062,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171685331",
       "first_seen": "2026-02-13",
       "first_price": 345000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r169016576": {
       "street": "Bath Street",
@@ -18163,7 +18297,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171045581",
       "first_seen": "2026-02-13",
       "first_price": 270000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87419568": {
       "street": "King Edward Road",
@@ -18349,7 +18484,7 @@
       "street": "Moultrie Road",
       "postcode": "CV21 3BD",
       "town": "RUGBY",
-      "price": 795000,
+      "price": 750000,
       "agent": "Knight Frank",
       "branch": "Stratford Upon Avon",
       "listed_date": "2023-05-12",
@@ -18451,7 +18586,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170207486",
       "first_seen": "2026-02-13",
       "first_price": 162500,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164029130": {
       "street": "Hillmorton Road",
@@ -18703,7 +18839,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171693989",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r149582231": {
       "street": "Sheep Street",
@@ -18739,7 +18876,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165418289",
       "first_seen": "2026-02-13",
       "first_price": 239950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164923100": {
       "street": "Curie Close",
@@ -18793,7 +18931,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/141488678",
       "first_seen": "2026-02-13",
       "first_price": 85000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r164538803": {
       "street": "Curie Close",
@@ -18811,7 +18950,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164538803",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r169192973": {
       "street": "Curie Close",
@@ -18829,7 +18968,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169192973",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r168385043": {
       "street": "Park Walk",
@@ -18847,13 +18986,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168385043",
       "first_seen": "2026-02-13",
       "first_price": 350000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169912550": {
       "street": "Poplar Grove",
       "postcode": "CV21 2QR",
       "town": "RUGBY",
-      "price": 200000,
+      "price": 180000,
       "agent": "Shipways",
       "branch": "Rugby",
       "listed_date": "2025-12-02",
@@ -18883,7 +19023,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167664356",
       "first_seen": "2026-02-13",
       "first_price": 79950,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r167937239": {
       "street": "Newbold Road",
@@ -18955,7 +19096,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165695165",
       "first_seen": "2026-02-13",
       "first_price": 265000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165406847": {
       "street": "Saunton Road",
@@ -19069,7 +19211,7 @@
       "street": "Mellish Road",
       "postcode": "CV22 6BB",
       "town": "RUGBY",
-      "price": 190000,
+      "price": 180000,
       "agent": "Shipways",
       "branch": "Rugby",
       "listed_date": "2025-10-29",
@@ -19153,7 +19295,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/164439794",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169826708": {
       "street": "Everest Road",
@@ -19195,7 +19338,7 @@
       "street": "Everest Road",
       "postcode": "CV22 6EX",
       "town": "RUGBY",
-      "price": 279950,
+      "price": 270000,
       "agent": "Edward Knight Estate Agents",
       "branch": "Rugby",
       "listed_date": "2025-08-13",
@@ -19249,7 +19392,7 @@
       "street": "Dunchurch Road",
       "postcode": "CV22 6HX",
       "town": "RUGBY",
-      "price": 750000,
+      "price": 700000,
       "agent": "Carter and King Estate Agents",
       "branch": "Rugby",
       "listed_date": "2026-01-28",
@@ -19279,7 +19422,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172086008",
       "first_seen": "2026-02-13",
       "first_price": 275000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r161808014": {
       "street": "Bilton Road",
@@ -19333,7 +19477,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169456877",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87592800": {
       "street": "Bilton Road",
@@ -19357,7 +19502,7 @@
       "street": "Warwick Street",
       "postcode": "CV21 3DW",
       "town": "RUGBY",
-      "price": 115000,
+      "price": 110000,
       "agent": "Horts Estate Agents",
       "branch": "Rugby",
       "listed_date": "2026-01-19",
@@ -19465,7 +19610,7 @@
       "street": "Lytham Road",
       "postcode": "CV22 7PG",
       "town": "RUGBY",
-      "price": 269950,
+      "price": 264500,
       "agent": "Carter and King Estate Agents",
       "branch": "Rugby",
       "listed_date": "2026-01-05",
@@ -19483,7 +19628,7 @@
       "street": "Frederick Street",
       "postcode": "CV21 2EN",
       "town": "RUGBY",
-      "price": 200000,
+      "price": 190000,
       "agent": "Howkins & Harrison LLP",
       "branch": "Rugby",
       "listed_date": "2025-12-26",
@@ -19573,7 +19718,7 @@
       "street": "Charles Street",
       "postcode": "CV21 2EW",
       "town": "RUGBY",
-      "price": 290000,
+      "price": 280000,
       "agent": "Shipways",
       "branch": "Rugby",
       "listed_date": "2025-12-26",
@@ -19657,13 +19802,14 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/160045301",
       "first_seen": "2026-02-13",
       "first_price": 130000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165981686": {
       "street": "Hidcote Close",
       "postcode": "CV22 7JL",
       "town": "RUGBY",
-      "price": 145000,
+      "price": 140000,
       "agent": "Let Property Sales & Management",
       "branch": "Glasgow",
       "listed_date": "2025-08-20",
@@ -19681,7 +19827,7 @@
       "street": "Glebe Crescent",
       "postcode": "CV21 2HG",
       "town": "RUGBY",
-      "price": 250000,
+      "price": 245000,
       "agent": "Edward Knight Estate Agents",
       "branch": "Rugby",
       "listed_date": "2026-02-04",
@@ -19711,7 +19857,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171493457",
       "first_seen": "2026-02-13",
       "first_price": 350000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r167343815": {
       "street": "Bennett Street",
@@ -19825,7 +19972,7 @@
       "street": "Sandy Lane",
       "postcode": "CV21 2UR",
       "town": "RUGBY",
-      "price": 199950,
+      "price": 189950,
       "agent": "Horts Estate Agents",
       "branch": "Rugby",
       "listed_date": "2026-01-27",
@@ -19873,7 +20020,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171639983",
       "first_seen": "2026-02-13",
       "first_price": 225000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171256505": {
       "street": "Oliver Street",
@@ -20023,7 +20171,7 @@
       "street": "Carlton Road",
       "postcode": "CV22 7PD",
       "town": "RUGBY",
-      "price": 299950,
+      "price": 295000,
       "agent": "Brown & Cockerill Estate Agents",
       "branch": "Rugby",
       "listed_date": "2026-01-28",
@@ -20365,7 +20513,7 @@
       "street": "Davidson Avenue",
       "postcode": "CV31 1LT",
       "town": "LEAMINGTON SPA",
-      "price": 290000,
+      "price": 280000,
       "agent": "Connells",
       "branch": "Leamington Spa",
       "listed_date": "2025-12-26",
@@ -20383,7 +20531,7 @@
       "street": "Wentworth Road",
       "postcode": "CV31 1RW",
       "town": "LEAMINGTON SPA",
-      "price": 292500,
+      "price": 289999,
       "agent": "Golden Key Estates",
       "branch": "Leamington Spa",
       "listed_date": "2026-01-06",
@@ -20441,7 +20589,7 @@
       "agent": "Henshaw Homes",
       "branch": "Leamington Spa",
       "listed_date": "2025-10-12",
-      "bedrooms": 4,
+      "bedrooms": 3,
       "bathrooms": 2,
       "property_type": "Terraced",
       "source": "rightmove",
@@ -20485,7 +20633,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171226910",
       "first_seen": "2026-02-13",
       "first_price": 450000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171465761": {
       "street": "Radford Road",
@@ -20527,7 +20676,7 @@
       "street": "Waverley Road",
       "postcode": "CV31 2DF",
       "town": "LEAMINGTON SPA",
-      "price": 343000,
+      "price": 340000,
       "agent": "Yopa",
       "branch": "Midlands South West & Wales",
       "listed_date": "2025-11-28",
@@ -20575,7 +20724,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165613286",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r171415076": {
       "street": "Leam Terrace",
@@ -20593,7 +20742,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171415076",
       "first_seen": "2026-02-13",
       "first_price": 200000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170634077": {
       "street": "Russell Terrace",
@@ -20611,7 +20761,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170634077",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r171930377": {
       "street": "Leam Terrace",
@@ -20629,7 +20779,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171930377",
       "first_seen": "2026-02-13",
       "first_price": 495000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171730037": {
       "street": "Radford Road",
@@ -20707,7 +20858,7 @@
       "street": "East Grove",
       "postcode": "CV31 2AJ",
       "town": "LEAMINGTON SPA",
-      "price": 250000,
+      "price": 220000,
       "agent": "Crabb Curtis Property Services",
       "branch": "Leamington Spa",
       "listed_date": "2025-10-22",
@@ -20755,7 +20906,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170755856",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r170984417": {
       "street": "Upper Holly Walk",
@@ -20899,7 +21050,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165274487",
       "first_seen": "2026-02-13",
       "first_price": 279950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r162856190": {
       "street": "Ranelagh Terrace",
@@ -20935,7 +21087,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170868614",
       "first_seen": "2026-02-13",
       "first_price": 229000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r166540574": {
       "street": "Newbold Terrace",
@@ -20995,7 +21148,7 @@
       "street": "Frances Havergal Close",
       "postcode": "CV31 3BU",
       "town": "LEAMINGTON SPA",
-      "price": 260000,
+      "price": 250000,
       "agent": "Connells",
       "branch": "Leamington Spa",
       "listed_date": "2026-02-05",
@@ -21061,7 +21214,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171098561",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r87607518": {
       "street": "Nursery Lane",
@@ -21079,7 +21232,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87607518",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r168735083": {
       "street": "Princes Street",
@@ -21103,7 +21257,7 @@
       "street": "Charlotte Street",
       "postcode": "CV31 3RU",
       "town": "LEAMINGTON SPA",
-      "price": 155000,
+      "price": 150000,
       "agent": "Pantera Property",
       "branch": "Harrogate",
       "listed_date": "2025-12-24",
@@ -21133,7 +21287,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171820427",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r164730338": {
       "street": "St. Georges Road",
@@ -21295,7 +21450,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169446044",
       "first_seen": "2026-02-13",
       "first_price": 340000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r167150516": {
       "street": "Lammas Croft",
@@ -21373,7 +21529,7 @@
       "street": "Heathcote Road",
       "postcode": "CV31 2LX",
       "town": "LEAMINGTON SPA",
-      "price": 450000,
+      "price": 425000,
       "agent": "Peter Clarke",
       "branch": "Leamington Spa",
       "listed_date": "2025-11-05",
@@ -21427,7 +21583,7 @@
       "street": "Villebon Way",
       "postcode": "CV31 2RD",
       "town": "LEAMINGTON SPA",
-      "price": 335000,
+      "price": 325000,
       "agent": "Sheldon Bosley Knight",
       "branch": "Leamington Spa",
       "listed_date": "2026-01-28",
@@ -21535,7 +21691,7 @@
       "street": "Home Farm Crescent",
       "postcode": "CV31 2QZ",
       "town": "LEAMINGTON SPA",
-      "price": 315000,
+      "price": 300000,
       "agent": "Crabb Curtis Property Services",
       "branch": "Leamington Spa",
       "listed_date": "2025-03-24",
@@ -21661,7 +21817,7 @@
       "street": "Brunswick Street",
       "postcode": "CV31 2ER",
       "town": "LEAMINGTON SPA",
-      "price": 375000,
+      "price": 360000,
       "agent": "Complete Estate Agents",
       "branch": "Leamington Spa",
       "listed_date": "2025-12-20",
@@ -21691,7 +21847,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170601860",
       "first_seen": "2026-02-13",
       "first_price": 290000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171004175": {
       "street": "Southway",
@@ -21853,7 +22010,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171537623",
       "first_seen": "2026-02-13",
       "first_price": 175000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169482782": {
       "street": "Williams Close",
@@ -21877,7 +22035,7 @@
       "street": "Tachbrook Street",
       "postcode": "CV31 3BW",
       "town": "LEAMINGTON SPA",
-      "price": 150000,
+      "price": 145000,
       "agent": "Kingsway Estate Agents",
       "branch": "Covering Leamington Spa",
       "listed_date": "2026-01-21",
@@ -22393,7 +22551,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/159796589",
       "first_seen": "2026-02-13",
       "first_price": 265000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r160082051": {
       "street": "Emscote Road",
@@ -22591,7 +22750,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171988625",
       "first_seen": "2026-02-13",
       "first_price": 300000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170984678": {
       "street": "Milverton Crescent",
@@ -22735,7 +22895,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170638127",
       "first_seen": "2026-02-13",
       "first_price": 280000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r160785497": {
       "street": "Marne Close",
@@ -22753,7 +22914,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/160785497",
       "first_seen": "2026-02-13",
       "first_price": 475000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165812204": {
       "street": "Grove Street",
@@ -22771,7 +22933,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165812204",
       "first_seen": "2026-02-13",
       "first_price": 750000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r87434085": {
       "street": "Grove Street",
@@ -22789,7 +22952,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87434085",
       "first_seen": "2026-02-13",
       "first_price": 735000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r157331012": {
       "street": "Grove Street",
@@ -22807,7 +22971,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/157331012",
       "first_seen": "2026-02-13",
       "first_price": 875000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170537873": {
       "street": "Freemans Close",
@@ -22825,7 +22990,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170537873",
       "first_seen": "2026-02-13",
       "first_price": 875000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172138916": {
       "street": "Colbourne Grove",
@@ -22842,14 +23008,14 @@
       "listing_id": "r172138916",
       "rightmove_url": "https://www.rightmove.co.uk/properties/172138916",
       "first_seen": "2026-02-13",
-      "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r163907933": {
       "street": "Binswood End",
       "postcode": "CV33 9LN",
       "town": "LEAMINGTON SPA",
-      "price": 245000,
+      "price": 230000,
       "agent": "Kleinmann Properties",
       "branch": "Harbury",
       "listed_date": "2025-06-27",
@@ -23005,7 +23171,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171846896",
       "first_seen": "2026-02-13",
       "first_price": 600000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171599780": {
       "street": "Constance Drive",
@@ -23119,7 +23286,7 @@
       "street": "Lewis Road",
       "postcode": "CV31 1UB",
       "town": "LEAMINGTON SPA",
-      "price": 239950,
+      "price": 225000,
       "agent": "Wiglesworth",
       "branch": "Leamington Spa",
       "listed_date": "2026-01-19",
@@ -23149,7 +23316,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169103603",
       "first_seen": "2026-02-13",
       "first_price": 238000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172071560": {
       "street": "The Gardens",
@@ -23239,7 +23407,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/156262583",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r171640745": {
       "street": "Offchurch Lane",
@@ -23275,7 +23443,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168374747",
       "first_seen": "2026-02-13",
       "first_price": 1100000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170928287": {
       "street": "Croft Close",
@@ -23293,7 +23462,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170928287",
       "first_seen": "2026-02-13",
       "first_price": 335000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r164181896": {
       "street": "Northgate Street",
@@ -23437,7 +23607,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171887006",
       "first_seen": "2026-02-13",
       "first_price": 260000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r160003016": {
       "street": "Priory Road",
@@ -23551,7 +23722,7 @@
       "street": "Spring Pool",
       "postcode": "CV34 4UR",
       "town": "WARWICK",
-      "price": 185000,
+      "price": 175000,
       "agent": "Sheldon Bosley Knight",
       "branch": "Leamington Spa",
       "listed_date": "2025-12-18",
@@ -23635,7 +23806,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171588560",
       "first_seen": "2026-02-13",
       "first_price": 115000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r162211187": {
       "street": "Cross Street",
@@ -23689,7 +23861,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170077988",
       "first_seen": "2026-02-13",
       "first_price": 165000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r166918424": {
       "street": "Castle Street",
@@ -23851,7 +24024,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168308507",
       "first_seen": "2026-02-13",
       "first_price": 325000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r169997312": {
       "street": "St. Nicholas Church Street",
@@ -23994,8 +24168,8 @@
       "listing_id": "r171478583",
       "rightmove_url": "https://www.rightmove.co.uk/properties/171478583",
       "first_seen": "2026-02-13",
-      "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171585524": {
       "street": "Lammas Walk",
@@ -24607,7 +24781,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171966839",
       "first_seen": "2026-02-13",
       "first_price": 650000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171573419": {
       "street": "Cherry Lane",
@@ -24949,7 +25124,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171596438",
       "first_seen": "2026-02-13",
       "first_price": 295000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87378525": {
       "street": "Church Street",
@@ -25135,7 +25311,7 @@
       "street": "Beecham Road",
       "postcode": "CV36 4RJ",
       "town": "SHIPSTON-ON-STOUR",
-      "price": 575000,
+      "price": 550000,
       "agent": "eXp UK",
       "branch": "West Midlands",
       "listed_date": "2025-11-21",
@@ -25237,7 +25413,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/169574786",
       "first_seen": "2026-02-13",
       "first_price": 525000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172094309": {
       "street": "Symons Way",
@@ -25273,7 +25450,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167773208",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r171148187": {
       "street": "Norgren Crescent",
@@ -25291,7 +25469,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171148187",
       "first_seen": "2026-02-13",
       "first_price": 213000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r87578529": {
       "street": "Brewer Hill",
@@ -25513,7 +25692,7 @@
       "street": "Mansell Street",
       "postcode": "CV37 6NZ",
       "town": "STRATFORD-UPON-AVON",
-      "price": 500000,
+      "price": 475000,
       "agent": "Sheldon Bosley Knight",
       "branch": "Stratford-Upon-Avon",
       "listed_date": "2025-12-18",
@@ -25621,7 +25800,7 @@
       "street": "Alcester Road",
       "postcode": "CV37 6PN",
       "town": "STRATFORD-UPON-AVON",
-      "price": 140000,
+      "price": 130000,
       "agent": "Retirement Homesearch",
       "branch": "West of England & Wales",
       "listed_date": "2025-10-30",
@@ -25759,7 +25938,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165197561",
       "first_seen": "2026-02-13",
       "first_price": 285000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r161216762": {
       "street": "Ely Street",
@@ -25837,7 +26017,7 @@
       "street": "Great William Street",
       "postcode": "CV37 6RY",
       "town": "STRATFORD-UPON-AVON",
-      "price": 390000,
+      "price": 375000,
       "agent": "Edwards Estate Agents",
       "branch": "Stratford-upon-Avon",
       "listed_date": "2025-11-25",
@@ -25921,7 +26101,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168498803",
       "first_seen": "2026-02-13",
       "first_price": 825000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r164540885": {
       "street": "Alcester Road",
@@ -25975,7 +26156,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165696914",
       "first_seen": "2026-02-13",
       "first_price": 340000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170872469": {
       "street": "Alcester Road",
@@ -26269,7 +26451,7 @@
       "street": "Warwick Road",
       "postcode": "CV37 6YE",
       "town": "STRATFORD-UPON-AVON",
-      "price": 200000,
+      "price": 190000,
       "agent": "Connells",
       "branch": "Stratford-upon-Avon",
       "listed_date": "2026-02-05",
@@ -26407,7 +26589,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/166972712",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r172126847": {
       "street": "Heather Close",
@@ -26485,7 +26667,7 @@
       "street": "Bull Street",
       "postcode": "CV47 1PQ",
       "town": "SOUTHAM",
-      "price": 160000,
+      "price": 155000,
       "agent": "The Property Experts",
       "branch": "London",
       "listed_date": "2025-11-14",
@@ -26503,7 +26685,7 @@
       "street": "St. Marys Close",
       "postcode": "CV47 1EW",
       "town": "SOUTHAM",
-      "price": 625000,
+      "price": 600000,
       "agent": "Hawthorn and Co Estates",
       "branch": "Harbury",
       "listed_date": "2026-01-14",
@@ -26695,7 +26877,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168922088",
       "first_seen": "2026-02-13",
       "first_price": 250000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r158618198": {
       "street": "Mill Crescent",
@@ -26713,7 +26896,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/158618198",
       "first_seen": "2026-02-13",
       "first_price": 170000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r170680454": {
       "street": "Mayfield Road",
@@ -26749,7 +26933,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171684245",
       "first_seen": "2026-02-13",
       "first_price": 525000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170631101": {
       "street": "Elmbank",
@@ -26881,7 +27066,7 @@
       "street": "Tempest Close",
       "postcode": "CV47 1AQ",
       "town": "SOUTHAM",
-      "price": 400000,
+      "price": 390000,
       "agent": "The Property Experts",
       "branch": "London",
       "listed_date": "2026-01-29",
@@ -26911,7 +27096,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/167573591",
       "first_seen": "2026-02-13",
       "status": "UNDER OFFER",
-      "withdrawn_date": "2026-02-16"
+      "withdrawn_date": "2026-02-23"
     },
     "r165188408": {
       "street": "Spitfire Road",
@@ -26929,7 +27114,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/165188408",
       "first_seen": "2026-02-13",
       "first_price": 565000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r170901506": {
       "street": "Mallard Close",
@@ -27012,7 +27198,7 @@
       "branch": "London",
       "listed_date": "2026-02-03",
       "bedrooms": 3,
-      "bathrooms": 3,
+      "bathrooms": 1,
       "property_type": "Detached",
       "source": "rightmove",
       "listing_id": "r171808337",
@@ -27241,7 +27427,7 @@
       "street": "",
       "postcode": "CV47 2DF",
       "town": "SOUTHAM",
-      "price": 375000,
+      "price": 365000,
       "agent": "Purplebricks",
       "branch": "covering Coventry",
       "listed_date": "2026-02-05",
@@ -27271,7 +27457,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/170204402",
       "first_seen": "2026-02-13",
       "first_price": 441000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r165186293": {
       "street": "Cox Crescent",
@@ -27397,7 +27584,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172154804",
       "first_seen": "2026-02-16",
       "first_price": 229950,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172179236": {
       "street": "Glover Street",
@@ -27451,7 +27639,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172165283",
       "first_seen": "2026-02-16",
       "first_price": 210000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172181342": {
       "street": "Lyons Drive",
@@ -27649,7 +27838,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172153586",
       "first_seen": "2026-02-16",
       "first_price": 160000,
-      "status": "Active"
+      "status": "SOLD STC",
+      "withdrawn_date": "2026-02-23"
     },
     "r172162781": {
       "street": "Cypress Way",
@@ -27659,8 +27849,8 @@
       "agent": "Wright & Wright",
       "branch": "Nuneaton",
       "listed_date": "2026-02-13",
-      "bedrooms": "",
-      "bathrooms": "",
+      "bedrooms": 3,
+      "bathrooms": 1,
       "property_type": "Terraced",
       "source": "rightmove",
       "listing_id": "r172162781",
@@ -27721,7 +27911,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/161880128",
       "first_seen": "2026-02-16",
       "first_price": 200000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r171620654": {
       "street": "Orford Rise",
@@ -27775,7 +27966,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/168638750",
       "first_seen": "2026-02-16",
       "first_price": 235000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172213457": {
       "street": "Nairn Close",
@@ -27883,7 +28075,8 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171008039",
       "first_seen": "2026-02-16",
       "first_price": 700000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
     },
     "r172164626": {
       "street": "Clifton Road",
@@ -28092,7 +28285,7 @@
       "branch": "Warwick",
       "listed_date": "2026-01-30",
       "bedrooms": 2,
-      "bathrooms": 1,
+      "bathrooms": 2,
       "property_type": "Semi-Detached",
       "source": "rightmove",
       "listing_id": "r171650093",
@@ -28189,7 +28382,3122 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/87148674",
       "first_seen": "2026-02-16",
       "first_price": 680000,
-      "status": "Active"
+      "status": "UNDER OFFER",
+      "withdrawn_date": "2026-02-23"
+    },
+    "r172294724": {
+      "street": "Greyfriars Road",
+      "postcode": "CV1 3RX",
+      "town": "COVENTRY",
+      "price": 125000,
+      "agent": "Bayzos Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172294724",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172294724",
+      "first_seen": "2026-02-23",
+      "first_price": 125000,
+      "status": "NEW"
+    },
+    "r172349642": {
+      "street": "Leicester Row",
+      "postcode": "CV1 4AL",
+      "town": "COVENTRY",
+      "price": 120000,
+      "agent": "Maison Estates Ltd",
+      "branch": "Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172349642",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172349642",
+      "first_seen": "2026-02-23",
+      "first_price": 120000,
+      "status": "NEW"
+    },
+    "r172430183": {
+      "street": "Lower Ford Street",
+      "postcode": "CV1 5PA",
+      "town": "COVENTRY",
+      "price": 109950,
+      "agent": "Merrick Binch Lettings & Sales",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172430183",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172430183",
+      "first_seen": "2026-02-23",
+      "first_price": 109950,
+      "status": "NEW"
+    },
+    "r172354949": {
+      "street": "Conisbrough Keep",
+      "postcode": "CV1 5PY",
+      "town": "COVENTRY",
+      "price": 140000,
+      "agent": "Whitegates",
+      "branch": "Coventry",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172354949",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172354949",
+      "first_seen": "2026-02-23",
+      "first_price": 140000,
+      "status": "NEW"
+    },
+    "r172437593": {
+      "street": "Swan Lane",
+      "postcode": "CV2 4GA",
+      "town": "COVENTRY",
+      "price": 185000,
+      "agent": "Cloud9 Estates Ltd",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172437593",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172437593",
+      "first_seen": "2026-02-23",
+      "first_price": 185000,
+      "status": "NEW"
+    },
+    "r172474610": {
+      "street": "Dawes Close",
+      "postcode": "CV2 4LL",
+      "town": "COVENTRY",
+      "price": 92500,
+      "agent": "Shortland Horne",
+      "branch": "Coventry",
+      "listed_date": "2026-02-21",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172474610",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172474610",
+      "first_seen": "2026-02-23",
+      "first_price": 92500,
+      "status": "NEW"
+    },
+    "r166206260": {
+      "street": "North Street",
+      "postcode": "CV2 3FP",
+      "town": "COVENTRY",
+      "price": 180000,
+      "agent": "Up Estates",
+      "branch": "Coventry",
+      "listed_date": "2025-08-26",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r166206260",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/166206260",
+      "first_seen": "2026-02-23",
+      "first_price": 180000,
+      "status": "NEW"
+    },
+    "r172276373": {
+      "street": "Edingale Road",
+      "postcode": "CV2 2RF",
+      "town": "COVENTRY",
+      "price": 385000,
+      "agent": "Up Estates",
+      "branch": "Coventry",
+      "listed_date": "2026-02-16",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172276373",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172276373",
+      "first_seen": "2026-02-23",
+      "first_price": 385000,
+      "status": "NEW"
+    },
+    "r172302893": {
+      "street": "Hall Green Road",
+      "postcode": "CV6 7BT",
+      "town": "COVENTRY",
+      "price": 215000,
+      "agent": "Coopers",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172302893",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172302893",
+      "first_seen": "2026-02-23",
+      "first_price": 215000,
+      "status": "NEW"
+    },
+    "r172185101": {
+      "street": "Gresley Road",
+      "postcode": "CV2 1AZ",
+      "town": "COVENTRY",
+      "price": 29000,
+      "agent": "Under The Hammer",
+      "branch": "Covering Nationwide",
+      "listed_date": "2026-02-13",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172185101",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172185101",
+      "first_seen": "2026-02-23",
+      "first_price": 29000,
+      "status": "NEW"
+    },
+    "r172322204": {
+      "street": "Gresley Road",
+      "postcode": "CV2 1RJ",
+      "town": "COVENTRY",
+      "price": 117500,
+      "agent": "Coopers",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172322204",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172322204",
+      "first_seen": "2026-02-23",
+      "first_price": 117500,
+      "status": "NEW"
+    },
+    "r87625965": {
+      "street": "Chaceley Close",
+      "postcode": "CV2 2SF",
+      "town": "COVENTRY",
+      "price": 300000,
+      "agent": "Shortland Horne",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r87625965",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87625965",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r159495239": {
+      "street": "Cubbington Road",
+      "postcode": "CV6 7BL",
+      "town": "COVENTRY",
+      "price": 275000,
+      "agent": "Coopers",
+      "branch": "Coventry",
+      "listed_date": "2025-03-17",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r159495239",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/159495239",
+      "first_seen": "2026-02-23",
+      "first_price": 275000,
+      "status": "NEW"
+    },
+    "r171915194": {
+      "street": "Silverdale Close",
+      "postcode": "CV2 1PY",
+      "town": "COVENTRY",
+      "price": 175000,
+      "agent": "Evans Estate Agents Coventry Limited",
+      "branch": "Coventry",
+      "listed_date": "2026-02-05",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r171915194",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/171915194",
+      "first_seen": "2026-02-23",
+      "first_price": 175000,
+      "status": "NEW"
+    },
+    "r170515847": {
+      "street": "Dudley Street",
+      "postcode": "CV6 7EE",
+      "town": "COVENTRY",
+      "price": 165000,
+      "agent": "Bettermove",
+      "branch": "Nationwide",
+      "listed_date": "2025-12-22",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r170515847",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/170515847",
+      "first_seen": "2026-02-23",
+      "first_price": 165000,
+      "status": "NEW"
+    },
+    "r172268897": {
+      "street": "Brayford Avenue",
+      "postcode": "CV3 5BS",
+      "town": "COVENTRY",
+      "price": 425000,
+      "agent": "Suttons",
+      "branch": "Coventry",
+      "listed_date": "2025-12-26",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172268897",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172268897",
+      "first_seen": "2026-02-23",
+      "first_price": 425000,
+      "status": "NEW"
+    },
+    "r172446320": {
+      "street": "Ulverscroft Road",
+      "postcode": "CV3 5EZ",
+      "town": "COVENTRY",
+      "price": 300000,
+      "agent": "John Payne Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172446320",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172446320",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r172269404": {
+      "street": "Silksby Street",
+      "postcode": "CV3 5FY",
+      "town": "COVENTRY",
+      "price": 310000,
+      "agent": "Alan Cooper Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172269404",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172269404",
+      "first_seen": "2026-02-23",
+      "first_price": 310000,
+      "status": "NEW"
+    },
+    "r172097267": {
+      "street": "Arnold Avenue",
+      "postcode": "CV3 5LW",
+      "town": "COVENTRY",
+      "price": 460000,
+      "agent": "Coopers",
+      "branch": "Coventry",
+      "listed_date": "2026-02-11",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172097267",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172097267",
+      "first_seen": "2026-02-23",
+      "first_price": 460000,
+      "status": "NEW"
+    },
+    "r172432727": {
+      "street": "Gillquart Way",
+      "postcode": "CV1 2UE",
+      "town": "COVENTRY",
+      "price": 140000,
+      "agent": "haart",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172432727",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172432727",
+      "first_seen": "2026-02-23",
+      "first_price": 140000,
+      "status": "NEW"
+    },
+    "r172418390": {
+      "street": "Butterworth Drive",
+      "postcode": "CV4 8JL",
+      "town": "COVENTRY",
+      "price": 370000,
+      "agent": "Probate.Auction",
+      "branch": "London",
+      "listed_date": "2026-02-19",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172418390",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172418390",
+      "first_seen": "2026-02-23",
+      "first_price": 370000,
+      "status": "NEW"
+    },
+    "r172332458": {
+      "street": "Scarborough Way",
+      "postcode": "CV4 8DE",
+      "town": "COVENTRY",
+      "price": 180000,
+      "agent": "Whitegates",
+      "branch": "Coventry",
+      "listed_date": "2026-02-18",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172332458",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172332458",
+      "first_seen": "2026-02-23",
+      "first_price": 180000,
+      "status": "NEW"
+    },
+    "r164847569": {
+      "street": "Charter Avenue",
+      "postcode": "CV4 8BE",
+      "town": "COVENTRY",
+      "price": 90000,
+      "agent": "Connells",
+      "branch": "Coventry",
+      "listed_date": "2025-07-23",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r164847569",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/164847569",
+      "first_seen": "2026-02-23",
+      "first_price": 90000,
+      "status": "NEW"
+    },
+    "r172401755": {
+      "street": "Guinea Crescent",
+      "postcode": "CV4 8HW",
+      "town": "COVENTRY",
+      "price": 650000,
+      "agent": "Atkinson Stilgoe",
+      "branch": "Balsall Common",
+      "listed_date": "2026-02-19",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172401755",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172401755",
+      "first_seen": "2026-02-23",
+      "first_price": 650000,
+      "status": "NEW"
+    },
+    "r172272512": {
+      "street": "Cromwell Close",
+      "postcode": "CV4 8NT",
+      "town": "COVENTRY",
+      "price": 295000,
+      "agent": "Shortland Horne",
+      "branch": "Coventry",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172272512",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172272512",
+      "first_seen": "2026-02-23",
+      "first_price": 295000,
+      "status": "NEW"
+    },
+    "r172334678": {
+      "street": "Torrington Avenue",
+      "postcode": "CV4 9AQ",
+      "town": "COVENTRY",
+      "price": 199950,
+      "agent": "Tailor Made Sales and Lettings",
+      "branch": "Coventry",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172334678",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172334678",
+      "first_seen": "2026-02-23",
+      "first_price": 199950,
+      "status": "NEW"
+    },
+    "r172440914": {
+      "street": "Lesingham Drive",
+      "postcode": "CV4 9JT",
+      "town": "COVENTRY",
+      "price": 300000,
+      "agent": "Up Estates",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 6,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172440914",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172440914",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r172411394": {
+      "street": "Rothesay Avenue",
+      "postcode": "CV4 9FJ",
+      "town": "COVENTRY",
+      "price": 260000,
+      "agent": "Suzanne Regan - Your Coventry Estate Agent",
+      "branch": "Covering Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172411394",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172411394",
+      "first_seen": "2026-02-23",
+      "first_price": 260000,
+      "status": "NEW"
+    },
+    "r172253024": {
+      "street": "Rothesay Avenue",
+      "postcode": "CV4 9FH",
+      "town": "COVENTRY",
+      "price": 110000,
+      "agent": "Loveitts",
+      "branch": "Coventry - Auction",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172253024",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172253024",
+      "first_seen": "2026-02-23",
+      "first_price": 110000,
+      "status": "NEW"
+    },
+    "r172379744": {
+      "street": "Tile Hill Lane",
+      "postcode": "CV4 9DE",
+      "town": "COVENTRY",
+      "price": 95000,
+      "agent": "Loveitts",
+      "branch": "Coventry - Auction",
+      "listed_date": "2026-02-19",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172379744",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172379744",
+      "first_seen": "2026-02-23",
+      "first_price": 95000,
+      "status": "NEW"
+    },
+    "r172360898": {
+      "street": "Tile Hill Lane",
+      "postcode": "CV4 9DE",
+      "town": "COVENTRY",
+      "price": 120000,
+      "agent": "Loveitts",
+      "branch": "Coventry - Auction",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172360898",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172360898",
+      "first_seen": "2026-02-23",
+      "first_price": 120000,
+      "status": "NEW"
+    },
+    "r172360568": {
+      "street": "Tile Hill Lane",
+      "postcode": "CV4 9DE",
+      "town": "COVENTRY",
+      "price": 110000,
+      "agent": "Loveitts",
+      "branch": "Coventry - Auction",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172360568",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172360568",
+      "first_seen": "2026-02-23",
+      "first_price": 110000,
+      "status": "NEW"
+    },
+    "r172379861": {
+      "street": "Joshua Close",
+      "postcode": "CV4 9DB",
+      "town": "COVENTRY",
+      "price": 300000,
+      "agent": "Shortland Horne",
+      "branch": "Coventry",
+      "listed_date": "2026-01-23",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172379861",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172379861",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r87625404": {
+      "street": "Broad Lane",
+      "postcode": "CV5 7AB",
+      "town": "COVENTRY",
+      "price": 375000,
+      "agent": "Foster Lewis & Co",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r87625404",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87625404",
+      "first_seen": "2026-02-23",
+      "first_price": 375000,
+      "status": "NEW"
+    },
+    "r172324331": {
+      "street": "Glendower Avenue",
+      "postcode": "CV5 8BD",
+      "town": "COVENTRY",
+      "price": 230000,
+      "agent": "Purplebricks",
+      "branch": "covering Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172324331",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172324331",
+      "first_seen": "2026-02-23",
+      "first_price": 230000,
+      "status": "NEW"
+    },
+    "r172433198": {
+      "street": "Stoneleigh Avenue",
+      "postcode": "CV5 6BZ",
+      "town": "COVENTRY",
+      "price": 625000,
+      "agent": "Pittaway Thompson",
+      "branch": "Kenilworth",
+      "listed_date": "2026-02-20",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172433198",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172433198",
+      "first_seen": "2026-02-23",
+      "first_price": 625000,
+      "status": "NEW"
+    },
+    "r172346789": {
+      "street": "Stanley Road",
+      "postcode": "CV5 6FG",
+      "town": "COVENTRY",
+      "price": 410000,
+      "agent": "John Payne Estate Agents",
+      "branch": "Earlsdon",
+      "listed_date": "2026-02-18",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172346789",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172346789",
+      "first_seen": "2026-02-23",
+      "first_price": 410000,
+      "status": "NEW"
+    },
+    "r172300844": {
+      "street": "Osborne Road",
+      "postcode": "CV5 6SB",
+      "town": "COVENTRY",
+      "price": 145000,
+      "agent": "Pointons",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172300844",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172300844",
+      "first_seen": "2026-02-23",
+      "first_price": 145000,
+      "status": "NEW"
+    },
+    "r87621936": {
+      "street": "Moor Street",
+      "postcode": "CV5 6EQ",
+      "town": "COVENTRY",
+      "price": 160000,
+      "agent": "John Payne Estate Agents",
+      "branch": "Earlsdon",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r87621936",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87621936",
+      "first_seen": "2026-02-23",
+      "first_price": 160000,
+      "status": "NEW"
+    },
+    "r172283228": {
+      "street": "Broadway",
+      "postcode": "CV5 6NW",
+      "town": "COVENTRY",
+      "price": 255000,
+      "agent": "Shortland Horne",
+      "branch": "Coventry",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172283228",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172283228",
+      "first_seen": "2026-02-23",
+      "first_price": 255000,
+      "status": "NEW"
+    },
+    "r172465853": {
+      "street": "Moor Street",
+      "postcode": "CV5 6EY",
+      "town": "COVENTRY",
+      "price": 295000,
+      "agent": "Walmsley's The Way to Move",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172465853",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172465853",
+      "first_seen": "2026-02-23",
+      "first_price": 295000,
+      "status": "NEW"
+    },
+    "r172303700": {
+      "street": "Earlsdon Avenue North",
+      "postcode": "CV5 6FZ",
+      "town": "COVENTRY",
+      "price": 265000,
+      "agent": "Shortland Horne",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172303700",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172303700",
+      "first_seen": "2026-02-23",
+      "first_price": 265000,
+      "status": "NEW"
+    },
+    "r172393406": {
+      "street": "Sandpits Lane",
+      "postcode": "CV6 2FR",
+      "town": "COVENTRY",
+      "price": 200000,
+      "agent": "haart",
+      "branch": "Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172393406",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172393406",
+      "first_seen": "2026-02-23",
+      "first_price": 200000,
+      "status": "NEW"
+    },
+    "r172284470": {
+      "street": "Brackenhurst Road",
+      "postcode": "CV6 2DS",
+      "town": "COVENTRY",
+      "price": 220000,
+      "agent": "Whitegates",
+      "branch": "Coventry",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172284470",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172284470",
+      "first_seen": "2026-02-23",
+      "first_price": 220000,
+      "status": "NEW"
+    },
+    "r151576826": {
+      "street": "Worcester Close",
+      "postcode": "CV5 9FZ",
+      "town": "COVENTRY",
+      "price": 300000,
+      "agent": "John Payne Estate Agents",
+      "branch": "Earlsdon",
+      "listed_date": "2024-08-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r151576826",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/151576826",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r171113672": {
+      "street": "Bennetts Road",
+      "postcode": "CV7 8HY",
+      "town": "COVENTRY",
+      "price": 275000,
+      "agent": "Bairstow Eves",
+      "branch": "Radford",
+      "listed_date": "2026-01-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r171113672",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/171113672",
+      "first_seen": "2026-02-23",
+      "first_price": 275000,
+      "status": "NEW"
+    },
+    "r172382417": {
+      "street": "Greycoat Road",
+      "postcode": "CV6 2GZ",
+      "town": "COVENTRY",
+      "price": 260000,
+      "agent": "Lewis Oliver Estates Ltd",
+      "branch": "Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172382417",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172382417",
+      "first_seen": "2026-02-23",
+      "first_price": 260000,
+      "status": "NEW"
+    },
+    "r87565965": {
+      "street": "Shorncliffe Road",
+      "postcode": "CV6 1GQ",
+      "town": "COVENTRY",
+      "price": 320000,
+      "agent": "Bayzos Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-01-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r87565965",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87565965",
+      "first_seen": "2026-02-23",
+      "first_price": 320000,
+      "status": "NEW"
+    },
+    "r171889808": {
+      "street": "Durham Crescent",
+      "postcode": "CV5 9GA",
+      "town": "COVENTRY",
+      "price": 275000,
+      "agent": "Bayzos Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-02-05",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r171889808",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/171889808",
+      "first_seen": "2026-02-23",
+      "first_price": 275000,
+      "status": "NEW"
+    },
+    "r172241999": {
+      "street": "Redesdale Avenue",
+      "postcode": "CV6 1BT",
+      "town": "COVENTRY",
+      "price": 325000,
+      "agent": "HR Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-02-15",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172241999",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172241999",
+      "first_seen": "2026-02-23",
+      "first_price": 325000,
+      "status": "NEW"
+    },
+    "r172252880": {
+      "street": "Lawrence Saunders Road",
+      "postcode": "CV6 1HD",
+      "town": "COVENTRY",
+      "price": 97000,
+      "agent": "Loveitts",
+      "branch": "Coventry - Auction",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172252880",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172252880",
+      "first_seen": "2026-02-23",
+      "first_price": 97000,
+      "status": "NEW"
+    },
+    "r172252067": {
+      "street": "Lilac Avenue",
+      "postcode": "CV6 1DE",
+      "town": "COVENTRY",
+      "price": 200000,
+      "agent": "Encasa",
+      "branch": "Olton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172252067",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172252067",
+      "first_seen": "2026-02-23",
+      "first_price": 200000,
+      "status": "NEW"
+    },
+    "r172448270": {
+      "street": "Coundon Road",
+      "postcode": "CV1 4AR",
+      "town": "COVENTRY",
+      "price": 280000,
+      "agent": "Suttons",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 11,
+      "bathrooms": 4,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172448270",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172448270",
+      "first_seen": "2026-02-23",
+      "first_price": 280000,
+      "status": "NEW"
+    },
+    "r172481693": {
+      "street": "Stadium Close",
+      "postcode": "CV6 6GP",
+      "town": "COVENTRY",
+      "price": 180000,
+      "agent": "SmoothSale",
+      "branch": "Leeds",
+      "listed_date": "2026-02-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172481693",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172481693",
+      "first_seen": "2026-02-23",
+      "first_price": 180000,
+      "status": "NEW"
+    },
+    "r172246430": {
+      "street": "Romford Road",
+      "postcode": "CV6 4FS",
+      "town": "COVENTRY",
+      "price": 325000,
+      "agent": "Yopa",
+      "branch": "Midlands South West & Wales",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172246430",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172246430",
+      "first_seen": "2026-02-23",
+      "first_price": 325000,
+      "status": "NEW"
+    },
+    "r172395104": {
+      "street": "Glaisdale Avenue",
+      "postcode": "CV6 4LQ",
+      "town": "COVENTRY",
+      "price": 200000,
+      "agent": "HR Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172395104",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172395104",
+      "first_seen": "2026-02-23",
+      "first_price": 200000,
+      "status": "NEW"
+    },
+    "r167713316": {
+      "street": "Station Street West",
+      "postcode": "CV6 5NA",
+      "town": "COVENTRY",
+      "price": 149500,
+      "agent": "ESTATE CULTURE LTD",
+      "branch": "Coventry",
+      "listed_date": "2025-10-02",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r167713316",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/167713316",
+      "first_seen": "2026-02-23",
+      "first_price": 149500,
+      "status": "NEW"
+    },
+    "r172391657": {
+      "street": "Cross Road",
+      "postcode": "CV6 5GQ",
+      "town": "COVENTRY",
+      "price": 145000,
+      "agent": "Cloud9 Estates Ltd",
+      "branch": "Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172391657",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172391657",
+      "first_seen": "2026-02-23",
+      "first_price": 145000,
+      "status": "NEW"
+    },
+    "r172480391": {
+      "street": "Telfer Road",
+      "postcode": "CV6 3DH",
+      "town": "COVENTRY",
+      "price": 180000,
+      "agent": "Martin & Co",
+      "branch": "Hinckley & Nuneaton",
+      "listed_date": "2026-02-21",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172480391",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172480391",
+      "first_seen": "2026-02-23",
+      "first_price": 180000,
+      "status": "NEW"
+    },
+    "r168485675": {
+      "street": "Brooklyn Road",
+      "postcode": "CV1 4JT",
+      "town": "COVENTRY",
+      "price": 165000,
+      "agent": "Merrick Binch Lettings & Sales",
+      "branch": "Coventry",
+      "listed_date": "2025-10-22",
+      "bedrooms": 2,
+      "bathrooms": "",
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r168485675",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/168485675",
+      "first_seen": "2026-02-23",
+      "first_price": 165000,
+      "status": "NEW"
+    },
+    "r172294391": {
+      "street": "Hallbrook Road",
+      "postcode": "CV6 2GJ",
+      "town": "COVENTRY",
+      "price": 240000,
+      "agent": "Shortland Horne",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172294391",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172294391",
+      "first_seen": "2026-02-23",
+      "first_price": 240000,
+      "status": "NEW"
+    },
+    "r87628518": {
+      "street": "Whitehead Grove",
+      "postcode": "CV7 7US",
+      "town": "COVENTRY",
+      "price": 600000,
+      "agent": "Bayzos Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-02-17",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r87628518",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87628518",
+      "first_seen": "2026-02-23",
+      "first_price": 600000,
+      "status": "NEW"
+    },
+    "r172318985": {
+      "street": "Stoneton Crescent",
+      "postcode": "CV7 7QR",
+      "town": "COVENTRY",
+      "price": 550000,
+      "agent": "Xact Homes",
+      "branch": "Balsall Common",
+      "listed_date": "2026-02-17",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172318985",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172318985",
+      "first_seen": "2026-02-23",
+      "first_price": 550000,
+      "status": "NEW"
+    },
+    "r172253501": {
+      "street": "Kenilworth Road",
+      "postcode": "CV7 7ES",
+      "town": "COVENTRY",
+      "price": 110000,
+      "agent": "Atkinson Stilgoe",
+      "branch": "Balsall Common",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172253501",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172253501",
+      "first_seen": "2026-02-23",
+      "first_price": 110000,
+      "status": "NEW"
+    },
+    "r172426127": {
+      "street": "Kenilworth Road",
+      "postcode": "CV7 7EU",
+      "town": "COVENTRY",
+      "price": 450000,
+      "agent": "Bayzos Estate Agents",
+      "branch": "Coventry",
+      "listed_date": "2026-02-20",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172426127",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172426127",
+      "first_seen": "2026-02-23",
+      "first_price": 450000,
+      "status": "NEW"
+    },
+    "r172336793": {
+      "street": "Kelsey Lane",
+      "postcode": "CV7 7GL",
+      "town": "COVENTRY",
+      "price": 1300000,
+      "agent": "Xact Homes",
+      "branch": "Balsall Common",
+      "listed_date": "2026-02-18",
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172336793",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172336793",
+      "first_seen": "2026-02-23",
+      "first_price": 1300000,
+      "status": "NEW"
+    },
+    "r172350401": {
+      "street": "St. Nicholas Avenue",
+      "postcode": "CV8 1JU",
+      "town": "KENILWORTH",
+      "price": 335000,
+      "agent": "Julie Philpot",
+      "branch": "Kenilworth",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172350401",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172350401",
+      "first_seen": "2026-02-23",
+      "first_price": 335000,
+      "status": "NEW"
+    },
+    "r172397255": {
+      "street": "Archer Road",
+      "postcode": "CV8 1DJ",
+      "town": "KENILWORTH",
+      "price": 500000,
+      "agent": "Atkinson Stilgoe",
+      "branch": "Kenilworth",
+      "listed_date": "2026-02-19",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172397255",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172397255",
+      "first_seen": "2026-02-23",
+      "first_price": 500000,
+      "status": "NEW"
+    },
+    "r172478363": {
+      "street": "Station Road",
+      "postcode": "CV8 1JF",
+      "town": "KENILWORTH",
+      "price": 169950,
+      "agent": "Boothroyd & Company",
+      "branch": "Kenilworth",
+      "listed_date": "2026-02-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172478363",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172478363",
+      "first_seen": "2026-02-23",
+      "first_price": 169950,
+      "status": "NEW"
+    },
+    "r165281900": {
+      "street": "Seymour Green",
+      "postcode": "CV8 1TX",
+      "town": "KENILWORTH",
+      "price": 965000,
+      "agent": "Boothroyd & Company",
+      "branch": "Kenilworth",
+      "listed_date": "2025-08-02",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r165281900",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/165281900",
+      "first_seen": "2026-02-23",
+      "first_price": 965000,
+      "status": "NEW"
+    },
+    "r172305854": {
+      "street": "Arden Road",
+      "postcode": "CV8 2DU",
+      "town": "KENILWORTH",
+      "price": 625000,
+      "agent": "haart",
+      "branch": "Kenilworth",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172305854",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172305854",
+      "first_seen": "2026-02-23",
+      "first_price": 625000,
+      "status": "NEW"
+    },
+    "r172344398": {
+      "street": "Mitchiner Drive",
+      "postcode": "CV8 1LH",
+      "town": "KENILWORTH",
+      "price": 211750,
+      "agent": "haart",
+      "branch": "Kenilworth",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172344398",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172344398",
+      "first_seen": "2026-02-23",
+      "first_price": 211750,
+      "status": "NEW"
+    },
+    "r87630651": {
+      "street": "Tisdale Rise",
+      "postcode": "CV8 2QU",
+      "town": "KENILWORTH",
+      "price": 170000,
+      "agent": "Julie Philpot",
+      "branch": "Kenilworth",
+      "listed_date": "2026-02-17",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r87630651",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87630651",
+      "first_seen": "2026-02-23",
+      "first_price": 170000,
+      "status": "NEW"
+    },
+    "r172416089": {
+      "street": "Tulip Tree Avenue",
+      "postcode": "CV8 2BU",
+      "town": "KENILWORTH",
+      "price": 425000,
+      "agent": "Natalie Christopher Estate Agents",
+      "branch": "Covering Warwickshire",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172416089",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172416089",
+      "first_seen": "2026-02-23",
+      "first_price": 425000,
+      "status": "NEW"
+    },
+    "r169011116": {
+      "street": "Fennyland Lane",
+      "postcode": "CV8 2RS",
+      "town": "KENILWORTH",
+      "price": 250000,
+      "agent": "Reeds Rains",
+      "branch": "Kenilworth",
+      "listed_date": "2025-11-05",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r169011116",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/169011116",
+      "first_seen": "2026-02-23",
+      "first_price": 250000,
+      "status": "NEW"
+    },
+    "r171574562": {
+      "street": "Fennyland Lane",
+      "postcode": "CV8 2RS",
+      "town": "KENILWORTH",
+      "price": 365000,
+      "agent": "Leaders Sales",
+      "branch": "Kenilworth",
+      "listed_date": "2026-01-29",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r171574562",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/171574562",
+      "first_seen": "2026-02-23",
+      "first_price": 365000,
+      "status": "NEW"
+    },
+    "r161764493": {
+      "street": "Highland Road",
+      "postcode": "CV8 2EU",
+      "town": "KENILWORTH",
+      "price": 720000,
+      "agent": "Julie Philpot",
+      "branch": "Kenilworth",
+      "listed_date": "2025-05-09",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r161764493",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/161764493",
+      "first_seen": "2026-02-23",
+      "first_price": 720000,
+      "status": "NEW"
+    },
+    "r160849661": {
+      "street": "Alpine Court",
+      "postcode": "CV8 2QB",
+      "town": "KENILWORTH",
+      "price": 222500,
+      "agent": "Julie Philpot",
+      "branch": "Kenilworth",
+      "listed_date": "2025-04-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r160849661",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/160849661",
+      "first_seen": "2026-02-23",
+      "first_price": 222500,
+      "status": "NEW"
+    },
+    "r167188955": {
+      "street": "Lower Ladyes Hills",
+      "postcode": "CV8 2GN",
+      "town": "KENILWORTH",
+      "price": 370000,
+      "agent": "Elizabeth Davenport",
+      "branch": "Kenilworth",
+      "listed_date": "2025-09-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r167188955",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/167188955",
+      "first_seen": "2026-02-23",
+      "first_price": 370000,
+      "status": "NEW"
+    },
+    "r172257464": {
+      "street": "Lister Road",
+      "postcode": "CV9 3BX",
+      "town": "ATHERSTONE",
+      "price": 200000,
+      "agent": "Mark Webster Estate Agents",
+      "branch": "Atherstone",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172257464",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172257464",
+      "first_seen": "2026-02-23",
+      "first_price": 200000,
+      "status": "NEW"
+    },
+    "r172417244": {
+      "street": "Nuneaton Road",
+      "postcode": "CV9 1RF",
+      "town": "ATHERSTONE",
+      "price": 190000,
+      "agent": "Alan Cooper Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-19",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172417244",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172417244",
+      "first_seen": "2026-02-23",
+      "first_price": 190000,
+      "status": "NEW"
+    },
+    "r162892421": {
+      "street": "",
+      "postcode": "CV9 3DP",
+      "town": "ATHERSTONE",
+      "price": 1000000,
+      "agent": "Carters Estate Agents",
+      "branch": "Atherstone",
+      "listed_date": "2025-06-05",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r162892421",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/162892421",
+      "first_seen": "2026-02-23",
+      "first_price": 1000000,
+      "status": "NEW"
+    },
+    "r165451406": {
+      "street": "The Orchard",
+      "postcode": "CV9 2LJ",
+      "town": "ATHERSTONE",
+      "price": 270000,
+      "agent": "Bairstow Eves",
+      "branch": "Atherstone",
+      "listed_date": "2025-08-07",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r165451406",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/165451406",
+      "first_seen": "2026-02-23",
+      "first_price": 270000,
+      "status": "NEW"
+    },
+    "r165884930": {
+      "street": "Oldbury Road",
+      "postcode": "CV10 0TH",
+      "town": "NUNEATON",
+      "price": 430000,
+      "agent": "Wilkins Estate Agents",
+      "branch": "Nuneaton",
+      "listed_date": "2025-08-18",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r165884930",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/165884930",
+      "first_seen": "2026-02-23",
+      "first_price": 430000,
+      "status": "NEW"
+    },
+    "r172273328": {
+      "street": "Camp Hill Road",
+      "postcode": "CV10 0JU",
+      "town": "NUNEATON",
+      "price": 220000,
+      "agent": "Wilkins Estate Agents",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172273328",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172273328",
+      "first_seen": "2026-02-23",
+      "first_price": 220000,
+      "status": "NEW"
+    },
+    "r172402667": {
+      "street": "Spruce Road",
+      "postcode": "CV10 0LN",
+      "town": "NUNEATON",
+      "price": 175000,
+      "agent": "Wright & Wright",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172402667",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172402667",
+      "first_seen": "2026-02-23",
+      "first_price": 175000,
+      "status": "NEW"
+    },
+    "r172386611": {
+      "street": "Edinburgh Road",
+      "postcode": "CV10 9HG",
+      "town": "NUNEATON",
+      "price": 210000,
+      "agent": "Pointons",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172386611",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172386611",
+      "first_seen": "2026-02-23",
+      "first_price": 210000,
+      "status": "NEW"
+    },
+    "r172460600": {
+      "street": "Laggan Close",
+      "postcode": "CV10 9TF",
+      "town": "NUNEATON",
+      "price": 220000,
+      "agent": "Pointons",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-20",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172460600",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172460600",
+      "first_seen": "2026-02-23",
+      "first_price": 220000,
+      "status": "NEW"
+    },
+    "r172330421": {
+      "street": "Coleshill Road",
+      "postcode": "CV10 0QE",
+      "town": "NUNEATON",
+      "price": 110000,
+      "agent": "Pointons",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172330421",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172330421",
+      "first_seen": "2026-02-23",
+      "first_price": 110000,
+      "status": "NEW"
+    },
+    "r172264490": {
+      "street": "Laggan Close",
+      "postcode": "CV10 9TF",
+      "town": "NUNEATON",
+      "price": 185000,
+      "agent": "Alan Cooper Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172264490",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172264490",
+      "first_seen": "2026-02-23",
+      "first_price": 185000,
+      "status": "NEW"
+    },
+    "r172252472": {
+      "street": "Whittleford Road",
+      "postcode": "CV10 9HU",
+      "town": "NUNEATON",
+      "price": 130000,
+      "agent": "Your Move",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172252472",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172252472",
+      "first_seen": "2026-02-23",
+      "first_price": 130000,
+      "status": "NEW"
+    },
+    "r166105355": {
+      "street": "Berwyn Way",
+      "postcode": "CV10 8QW",
+      "town": "NUNEATON",
+      "price": 250000,
+      "agent": "Carters Estate Agents",
+      "branch": "Nuneaton",
+      "listed_date": "2025-08-22",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r166105355",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/166105355",
+      "first_seen": "2026-02-23",
+      "first_price": 250000,
+      "status": "NEW"
+    },
+    "r172248092": {
+      "street": "Berwyn Way",
+      "postcode": "CV10 8QW",
+      "town": "NUNEATON",
+      "price": 230000,
+      "agent": "Alan Cooper Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172248092",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172248092",
+      "first_seen": "2026-02-23",
+      "first_price": 230000,
+      "status": "NEW"
+    },
+    "r172277444": {
+      "street": "Berwyn Way",
+      "postcode": "CV10 8QW",
+      "town": "NUNEATON",
+      "price": 230000,
+      "agent": "Carters Estate Agents",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172277444",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172277444",
+      "first_seen": "2026-02-23",
+      "first_price": 230000,
+      "status": "NEW"
+    },
+    "r172357565": {
+      "street": "Browning Close",
+      "postcode": "CV10 9RH",
+      "town": "NUNEATON",
+      "price": 310000,
+      "agent": "Pointons",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-18",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172357565",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172357565",
+      "first_seen": "2026-02-23",
+      "first_price": 310000,
+      "status": "NEW"
+    },
+    "r172322873": {
+      "street": "Arbury Garth",
+      "postcode": "CV10 8LA",
+      "town": "NUNEATON",
+      "price": 270000,
+      "agent": "Alan Cooper Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172322873",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172322873",
+      "first_seen": "2026-02-23",
+      "first_price": 270000,
+      "status": "NEW"
+    },
+    "r172380857": {
+      "street": "Cabinhill Road",
+      "postcode": "CV10 9RN",
+      "town": "NUNEATON",
+      "price": 180000,
+      "agent": "Probate.Auction",
+      "branch": "London",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172380857",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172380857",
+      "first_seen": "2026-02-23",
+      "first_price": 180000,
+      "status": "NEW"
+    },
+    "r172348937": {
+      "street": "Merlin Avenue",
+      "postcode": "CV10 9JY",
+      "town": "NUNEATON",
+      "price": 230000,
+      "agent": "Wilkins Estate Agents",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-18",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172348937",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172348937",
+      "first_seen": "2026-02-23",
+      "first_price": 230000,
+      "status": "NEW"
+    },
+    "r172417892": {
+      "street": "Church Road",
+      "postcode": "CV10 8LJ",
+      "town": "NUNEATON",
+      "price": 160000,
+      "agent": "Alan Cooper Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-20",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172417892",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172417892",
+      "first_seen": "2026-02-23",
+      "first_price": 160000,
+      "status": "NEW"
+    },
+    "r172377095": {
+      "street": "Kingsway",
+      "postcode": "CV11 5LP",
+      "town": "NUNEATON",
+      "price": 275000,
+      "agent": "Pointons",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172377095",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172377095",
+      "first_seen": "2026-02-23",
+      "first_price": 275000,
+      "status": "NEW"
+    },
+    "r172266344": {
+      "street": "Greenmoor Road",
+      "postcode": "CV10 7EL",
+      "town": "NUNEATON",
+      "price": 230000,
+      "agent": "Maison Estates Ltd",
+      "branch": "Coventry",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172266344",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172266344",
+      "first_seen": "2026-02-23",
+      "first_price": 230000,
+      "status": "NEW"
+    },
+    "r172413245": {
+      "street": "Corporation Street",
+      "postcode": "CV11 5BG",
+      "town": "NUNEATON",
+      "price": 225000,
+      "agent": "Sheldon Bosley Knight",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-19",
+      "bedrooms": 5,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172413245",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172413245",
+      "first_seen": "2026-02-23",
+      "first_price": 225000,
+      "status": "NEW"
+    },
+    "r172475798": {
+      "street": "Harold Street",
+      "postcode": "CV11 5QX",
+      "town": "NUNEATON",
+      "price": 185000,
+      "agent": "Wright & Wright",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172475798",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172475798",
+      "first_seen": "2026-02-23",
+      "first_price": 185000,
+      "status": "NEW"
+    },
+    "r172406957": {
+      "street": "Black-A-Tree Road",
+      "postcode": "CV10 8DZ",
+      "town": "NUNEATON",
+      "price": 115000,
+      "agent": "Cartwright Hands",
+      "branch": "Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172406957",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172406957",
+      "first_seen": "2026-02-23",
+      "first_price": 115000,
+      "status": "NEW"
+    },
+    "r165996086": {
+      "street": "Black-A-Tree Road",
+      "postcode": "CV10 8DZ",
+      "town": "NUNEATON",
+      "price": 115000,
+      "agent": "Cartwright Hands",
+      "branch": "Coventry",
+      "listed_date": "2025-08-20",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r165996086",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/165996086",
+      "first_seen": "2026-02-23",
+      "first_price": 115000,
+      "status": "NEW"
+    },
+    "r172455650": {
+      "street": "Clarkson Close",
+      "postcode": "CV11 4BA",
+      "town": "NUNEATON",
+      "price": 260000,
+      "agent": "TOM BATES ESTATE AGENTS",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-20",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172455650",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172455650",
+      "first_seen": "2026-02-23",
+      "first_price": 260000,
+      "status": "NEW"
+    },
+    "r172335374": {
+      "street": "Trent Road",
+      "postcode": "CV11 6JF",
+      "town": "NUNEATON",
+      "price": 132500,
+      "agent": "Up Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172335374",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172335374",
+      "first_seen": "2026-02-23",
+      "first_price": 132500,
+      "status": "NEW"
+    },
+    "r172264391": {
+      "street": "Wolvey Road",
+      "postcode": "CV12 9JR",
+      "town": "BEDWORTH",
+      "price": 275000,
+      "agent": "Pointons",
+      "branch": "Nuneaton",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172264391",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172264391",
+      "first_seen": "2026-02-23",
+      "first_price": 275000,
+      "status": "NEW"
+    },
+    "r172412204": {
+      "street": "North Avenue",
+      "postcode": "CV12 9EQ",
+      "town": "BEDWORTH",
+      "price": 45000,
+      "agent": "Under The Hammer",
+      "branch": "Covering Nationwide",
+      "listed_date": "2026-02-19",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172412204",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172412204",
+      "first_seen": "2026-02-23",
+      "first_price": 45000,
+      "status": "NEW"
+    },
+    "r169919009": {
+      "street": "Chetwynd Drive",
+      "postcode": "CV11 4TJ",
+      "town": "NUNEATON",
+      "price": 300000,
+      "agent": "Up Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2025-12-02",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r169919009",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/169919009",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r87336714": {
+      "street": "Barne Close",
+      "postcode": "CV11 4TP",
+      "town": "NUNEATON",
+      "price": 280000,
+      "agent": "Up Estates",
+      "branch": "Nuneaton",
+      "listed_date": "2025-10-15",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r87336714",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87336714",
+      "first_seen": "2026-02-23",
+      "first_price": 280000,
+      "status": "NEW"
+    },
+    "r171810224": {
+      "street": "Wootton Street",
+      "postcode": "CV12 9DU",
+      "town": "BEDWORTH",
+      "price": 129950,
+      "agent": "Bairstow Eves",
+      "branch": "Atherstone",
+      "listed_date": "2026-02-03",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r171810224",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/171810224",
+      "first_seen": "2026-02-23",
+      "first_price": 129950,
+      "status": "NEW"
+    },
+    "r158098340": {
+      "street": "Spinney Hill",
+      "postcode": "CV13 0NU",
+      "town": "NUNEATON",
+      "price": 289950,
+      "agent": "Alexanders",
+      "branch": "Market Bosworth",
+      "listed_date": "2025-02-11",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r158098340",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/158098340",
+      "first_seen": "2026-02-23",
+      "first_price": 289950,
+      "status": "NEW"
+    },
+    "r166225469": {
+      "street": "Warwick Lane",
+      "postcode": "CV13 0JU",
+      "town": "NUNEATON",
+      "price": 450000,
+      "agent": "Alexanders",
+      "branch": "Market Bosworth",
+      "listed_date": "2025-08-26",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r166225469",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/166225469",
+      "first_seen": "2026-02-23",
+      "first_price": 450000,
+      "status": "NEW"
+    },
+    "r172303217": {
+      "street": "Market Mews",
+      "postcode": "CV13 0GZ",
+      "town": "NUNEATON",
+      "price": 815000,
+      "agent": "Howkins & Harrison LLP",
+      "branch": "Atherstone",
+      "listed_date": "2026-02-17",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172303217",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172303217",
+      "first_seen": "2026-02-23",
+      "first_price": 815000,
+      "status": "NEW"
+    },
+    "r172254815": {
+      "street": "Church Street",
+      "postcode": "CV13 0LG",
+      "town": "NUNEATON",
+      "price": 320000,
+      "agent": "Fox Country Properties",
+      "branch": "Market Bosworth",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172254815",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172254815",
+      "first_seen": "2026-02-23",
+      "first_price": 320000,
+      "status": "NEW"
+    },
+    "r172334324": {
+      "street": "Barton Road",
+      "postcode": "CV13 0ER",
+      "town": "NUNEATON",
+      "price": 500000,
+      "agent": "Sinclair Estate Agents",
+      "branch": "Coalville",
+      "listed_date": "2026-02-18",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172334324",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172334324",
+      "first_seen": "2026-02-23",
+      "first_price": 500000,
+      "status": "NEW"
+    },
+    "r172454732": {
+      "street": "Newbold Road",
+      "postcode": "CV13 0DZ",
+      "town": "NUNEATON",
+      "price": 225000,
+      "agent": "Judge Estate Agents",
+      "branch": "Anstey",
+      "listed_date": "2026-02-20",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172454732",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172454732",
+      "first_seen": "2026-02-23",
+      "first_price": 225000,
+      "status": "NEW"
+    },
+    "r172352210": {
+      "street": "Grosvenor Road",
+      "postcode": "CV21 3LE",
+      "town": "RUGBY",
+      "price": 240000,
+      "agent": "Osborne Sargent",
+      "branch": "Covering Rugby",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172352210",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172352210",
+      "first_seen": "2026-02-23",
+      "first_price": 240000,
+      "status": "NEW"
+    },
+    "r165523844": {
+      "street": "Oxford Street",
+      "postcode": "CV21 3LZ",
+      "town": "RUGBY",
+      "price": 179950,
+      "agent": "Brown & Cockerill Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2025-08-08",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r165523844",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/165523844",
+      "first_seen": "2026-02-23",
+      "first_price": 179950,
+      "status": "NEW"
+    },
+    "r172278269": {
+      "street": "Holbrook Avenue",
+      "postcode": "CV21 2QQ",
+      "town": "RUGBY",
+      "price": 275000,
+      "agent": "Edward Knight Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172278269",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172278269",
+      "first_seen": "2026-02-23",
+      "first_price": 275000,
+      "status": "NEW"
+    },
+    "r172326398": {
+      "street": "Craven Road",
+      "postcode": "CV21 3JZ",
+      "town": "RUGBY",
+      "price": 150000,
+      "agent": "Brian McG Real Estate",
+      "branch": "Rugby",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172326398",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172326398",
+      "first_seen": "2026-02-23",
+      "first_price": 150000,
+      "status": "NEW"
+    },
+    "r171740870": {
+      "street": "Little Church Street",
+      "postcode": "CV21 3AW",
+      "town": "RUGBY",
+      "price": 275000,
+      "agent": "Edward Knight Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2026-02-02",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r171740870",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/171740870",
+      "first_seen": "2026-02-23",
+      "first_price": 275000,
+      "status": "NEW"
+    },
+    "r157211246": {
+      "street": "Dickens Road",
+      "postcode": "CV22 5RW",
+      "town": "RUGBY",
+      "price": 235000,
+      "agent": "Brian McG Real Estate",
+      "branch": "Rugby",
+      "listed_date": "2025-01-22",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r157211246",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/157211246",
+      "first_seen": "2026-02-23",
+      "first_price": 235000,
+      "status": "NEW"
+    },
+    "r155829887": {
+      "street": "Dunster Close",
+      "postcode": "CV22 7AZ",
+      "town": "RUGBY",
+      "price": 250000,
+      "agent": "Esquire Estates",
+      "branch": "Luton",
+      "listed_date": "2024-12-10",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r155829887",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/155829887",
+      "first_seen": "2026-02-23",
+      "first_price": 250000,
+      "status": "NEW"
+    },
+    "r170106164": {
+      "street": "Stourhead Road",
+      "postcode": "CV22 7BF",
+      "town": "RUGBY",
+      "price": 119950,
+      "agent": "Cloud9 Estates Ltd",
+      "branch": "Coventry",
+      "listed_date": "2025-12-08",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r170106164",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/170106164",
+      "first_seen": "2026-02-23",
+      "first_price": 119950,
+      "status": "NEW"
+    },
+    "r87630480": {
+      "street": "Tower Road",
+      "postcode": "CV22 5NA",
+      "town": "RUGBY",
+      "price": 255000,
+      "agent": "Complete Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r87630480",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87630480",
+      "first_seen": "2026-02-23",
+      "first_price": 255000,
+      "status": "NEW"
+    },
+    "r172475030": {
+      "street": "Tennyson Avenue",
+      "postcode": "CV22 6JF",
+      "town": "RUGBY",
+      "price": 310000,
+      "agent": "Carter and King Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2026-02-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172475030",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172475030",
+      "first_seen": "2026-02-23",
+      "first_price": 310000,
+      "status": "NEW"
+    },
+    "r172310186": {
+      "street": "Oliver Street",
+      "postcode": "CV21 2LL",
+      "town": "RUGBY",
+      "price": 117000,
+      "agent": "Complete Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172310186",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172310186",
+      "first_seen": "2026-02-23",
+      "first_price": 117000,
+      "status": "NEW"
+    },
+    "r172474025": {
+      "street": "Park Farm Close",
+      "postcode": "CV22 7BB",
+      "town": "RUGBY",
+      "price": 365000,
+      "agent": "Crowhurst Gale Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2026-02-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172474025",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172474025",
+      "first_seen": "2026-02-23",
+      "first_price": 365000,
+      "status": "NEW"
+    },
+    "r172364612": {
+      "street": "Beatty Drive",
+      "postcode": "CV22 7ET",
+      "town": "RUGBY",
+      "price": 245000,
+      "agent": "Complete Estate Agents",
+      "branch": "Rugby",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172364612",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172364612",
+      "first_seen": "2026-02-23",
+      "first_price": 245000,
+      "status": "NEW"
+    },
+    "r172323398": {
+      "street": "Cundall Close",
+      "postcode": "CV31 1YU",
+      "town": "LEAMINGTON SPA",
+      "price": 265000,
+      "agent": "Complete Estate Agents",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-17",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172323398",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172323398",
+      "first_seen": "2026-02-23",
+      "first_price": 265000,
+      "status": "NEW"
+    },
+    "r172372673": {
+      "street": "Charlecote Gardens",
+      "postcode": "CV31 1GE",
+      "town": "LEAMINGTON SPA",
+      "price": 290000,
+      "agent": "Purplebricks",
+      "branch": "covering Coventry",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172372673",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172372673",
+      "first_seen": "2026-02-23",
+      "first_price": 290000,
+      "status": "NEW"
+    },
+    "r172297673": {
+      "street": "Eagle Street",
+      "postcode": "CV31 2AT",
+      "town": "LEAMINGTON SPA",
+      "price": 290000,
+      "agent": "Tara & Co",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172297673",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172297673",
+      "first_seen": "2026-02-23",
+      "first_price": 290000,
+      "status": "NEW"
+    },
+    "r172297703": {
+      "street": "Grove Place",
+      "postcode": "CV31 2AN",
+      "town": "LEAMINGTON SPA",
+      "price": 285000,
+      "agent": "Tara & Co",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172297703",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172297703",
+      "first_seen": "2026-02-23",
+      "first_price": 285000,
+      "status": "NEW"
+    },
+    "r172332488": {
+      "street": "Shrubland Street",
+      "postcode": "CV31 2AR",
+      "town": "LEAMINGTON SPA",
+      "price": 300000,
+      "agent": "Charles Rose",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172332488",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172332488",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r172412657": {
+      "street": "Ranelagh Terrace",
+      "postcode": "CV31 3BT",
+      "town": "LEAMINGTON SPA",
+      "price": 125000,
+      "agent": "Springbok Properties",
+      "branch": "Nationwide",
+      "listed_date": "2026-02-19",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172412657",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172412657",
+      "first_seen": "2026-02-23",
+      "first_price": 125000,
+      "status": "NEW"
+    },
+    "r172297691": {
+      "street": "Ranelagh Terrace",
+      "postcode": "CV31 3BT",
+      "town": "LEAMINGTON SPA",
+      "price": 299000,
+      "agent": "Tara & Co",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-17",
+      "bedrooms": 4,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172297691",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172297691",
+      "first_seen": "2026-02-23",
+      "first_price": 299000,
+      "status": "NEW"
+    },
+    "r172376645": {
+      "street": "Charlotte Street",
+      "postcode": "CV31 3EB",
+      "town": "LEAMINGTON SPA",
+      "price": 215000,
+      "agent": "R A Bennett & Partners",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-19",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172376645",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172376645",
+      "first_seen": "2026-02-23",
+      "first_price": 215000,
+      "status": "NEW"
+    },
+    "r172329965": {
+      "street": "Banquo Approach",
+      "postcode": "CV34 6GB",
+      "town": "WARWICK",
+      "price": 350000,
+      "agent": "EweMove",
+      "branch": "Warwick and Leamington Spa",
+      "listed_date": "2026-02-18",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172329965",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172329965",
+      "first_seen": "2026-02-23",
+      "first_price": 350000,
+      "status": "NEW"
+    },
+    "r172242173": {
+      "street": "Touchstone Road",
+      "postcode": "CV34 6EE",
+      "town": "WARWICK",
+      "price": 635000,
+      "agent": "Complete Estate Agents",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-15",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172242173",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172242173",
+      "first_seen": "2026-02-23",
+      "first_price": 635000,
+      "status": "NEW"
+    },
+    "r172451723": {
+      "street": "Jourdain Park",
+      "postcode": "CV34 6FJ",
+      "town": "WARWICK",
+      "price": 600000,
+      "agent": "Peter Clarke",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-20",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172451723",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172451723",
+      "first_seen": "2026-02-23",
+      "first_price": 600000,
+      "status": "NEW"
+    },
+    "r172403882": {
+      "street": "Beavers Brook Close",
+      "postcode": "CV31 1AF",
+      "town": "LEAMINGTON SPA",
+      "price": 385000,
+      "agent": "Handles Property",
+      "branch": "Leamington",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172403882",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172403882",
+      "first_seen": "2026-02-23",
+      "first_price": 385000,
+      "status": "NEW"
+    },
+    "r172263503": {
+      "street": "Greville Road",
+      "postcode": "CV34 5PB",
+      "town": "WARWICK",
+      "price": 365000,
+      "agent": "Complete Estate Agents",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172263503",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172263503",
+      "first_seen": "2026-02-23",
+      "first_price": 365000,
+      "status": "NEW"
+    },
+    "r172449398": {
+      "street": "Hill Street",
+      "postcode": "CV34 5NZ",
+      "town": "WARWICK",
+      "price": 150000,
+      "agent": "Connells",
+      "branch": "Warwick",
+      "listed_date": "2026-02-20",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172449398",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172449398",
+      "first_seen": "2026-02-23",
+      "first_price": 150000,
+      "status": "NEW"
+    },
+    "r172279709": {
+      "street": "Humphris Street",
+      "postcode": "CV34 5RB",
+      "town": "WARWICK",
+      "price": 150000,
+      "agent": "Wiglesworth",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172279709",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172279709",
+      "first_seen": "2026-02-23",
+      "first_price": 150000,
+      "status": "NEW"
+    },
+    "r172362626": {
+      "street": "Warwick Place",
+      "postcode": "CV32 5DE",
+      "town": "Leamington Spa",
+      "price": 190000,
+      "agent": "Complete Estate Agents",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-18",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172362626",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172362626",
+      "first_seen": "2026-02-23",
+      "first_price": 190000,
+      "status": "NEW"
+    },
+    "r172282421": {
+      "street": "Warwick Place",
+      "postcode": "CV32 5BL",
+      "town": "LEAMINGTON SPA",
+      "price": 315000,
+      "agent": "Edwards Estate Agents",
+      "branch": "Stratford-upon-Avon",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172282421",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172282421",
+      "first_seen": "2026-02-23",
+      "first_price": 315000,
+      "status": "NEW"
+    },
+    "r172481801": {
+      "street": "Charles Street",
+      "postcode": "CV34 5LQ",
+      "town": "WARWICK",
+      "price": 400000,
+      "agent": "R A Bennett & Partners",
+      "branch": "Warwick",
+      "listed_date": "2026-02-21",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172481801",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172481801",
+      "first_seen": "2026-02-23",
+      "first_price": 400000,
+      "status": "NEW"
+    },
+    "r172410941": {
+      "street": "Gaveston Road",
+      "postcode": "CV32 6EX",
+      "town": "LEAMINGTON SPA",
+      "price": 895000,
+      "agent": "Wiglesworth",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-19",
+      "bedrooms": 6,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172410941",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172410941",
+      "first_seen": "2026-02-23",
+      "first_price": 895000,
+      "status": "NEW"
+    },
+    "r163289516": {
+      "street": "Hopton Crofts",
+      "postcode": "CV32 6NT",
+      "town": "LEAMINGTON SPA",
+      "price": 1000000,
+      "agent": "Fine & Country",
+      "branch": "Leamington Spa",
+      "listed_date": "2025-06-13",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r163289516",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/163289516",
+      "first_seen": "2026-02-23",
+      "first_price": 1000000,
+      "status": "NEW"
+    },
+    "r172271366": {
+      "street": "St. Nicholas Church Street",
+      "postcode": "CV34 4JD",
+      "town": "WARWICK",
+      "price": 325000,
+      "agent": "R A Bennett & Partners",
+      "branch": "Warwick",
+      "listed_date": "2026-02-16",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172271366",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172271366",
+      "first_seen": "2026-02-23",
+      "first_price": 325000,
+      "status": "NEW"
+    },
+    "r167758031": {
+      "street": "St. Johns Court",
+      "postcode": "CV34 4NL",
+      "town": "WARWICK",
+      "price": 157500,
+      "agent": "Margetts",
+      "branch": "Warwick",
+      "listed_date": "2025-10-03",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r167758031",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/167758031",
+      "first_seen": "2026-02-23",
+      "first_price": 157500,
+      "status": "NEW"
+    },
+    "r169371461": {
+      "street": "Woodcote Road",
+      "postcode": "CV34 5BZ",
+      "town": "WARWICK",
+      "price": 335000,
+      "agent": "ehB Residential",
+      "branch": "Warwick",
+      "listed_date": "2025-11-15",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r169371461",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/169371461",
+      "first_seen": "2026-02-23",
+      "first_price": 335000,
+      "status": "NEW"
+    },
+    "r168794855": {
+      "street": "St. Johns Court",
+      "postcode": "CV34 4NJ",
+      "town": "WARWICK",
+      "price": 170000,
+      "agent": "Kingsway Estate Agents",
+      "branch": "Covering Leamington Spa",
+      "listed_date": "2025-10-30",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r168794855",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/168794855",
+      "first_seen": "2026-02-23",
+      "first_price": 170000,
+      "status": "NEW"
+    },
+    "r172257965": {
+      "street": "Mill Lane",
+      "postcode": "CV35 8EJ",
+      "town": "WARWICK",
+      "price": 310000,
+      "agent": "Connells",
+      "branch": "Warwick",
+      "listed_date": "2026-02-16",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172257965",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172257965",
+      "first_seen": "2026-02-23",
+      "first_price": 310000,
+      "status": "NEW"
+    },
+    "r172460957": {
+      "street": "Penney Lane",
+      "postcode": "CV34 6JG",
+      "town": "WARWICK",
+      "price": 280000,
+      "agent": "Hawkesford",
+      "branch": "Warwick",
+      "listed_date": "2026-02-20",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172460957",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172460957",
+      "first_seen": "2026-02-23",
+      "first_price": 280000,
+      "status": "NEW"
+    },
+    "r172464314": {
+      "street": "The Marish",
+      "postcode": "CV34 6BZ",
+      "town": "WARWICK",
+      "price": 325000,
+      "agent": "R A Bennett & Partners",
+      "branch": "Warwick",
+      "listed_date": "2026-02-20",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172464314",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172464314",
+      "first_seen": "2026-02-23",
+      "first_price": 325000,
+      "status": "NEW"
+    },
+    "r172438625": {
+      "street": "Byron Avenue",
+      "postcode": "CV34 6LB",
+      "town": "WARWICK",
+      "price": 180000,
+      "agent": "Martin & Co",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-20",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172438625",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172438625",
+      "first_seen": "2026-02-23",
+      "first_price": 180000,
+      "status": "NEW"
+    },
+    "r172389527": {
+      "street": "Stratford Road",
+      "postcode": "CV34 6AT",
+      "town": "WARWICK",
+      "price": 465000,
+      "agent": "R A Bennett & Partners",
+      "branch": "Warwick",
+      "listed_date": "2026-02-19",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r172389527",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172389527",
+      "first_seen": "2026-02-23",
+      "first_price": 465000,
+      "status": "NEW"
+    },
+    "r172376639": {
+      "street": "",
+      "postcode": "CV37 0PD",
+      "town": "STRATFORD-UPON-AVON",
+      "price": 1695000,
+      "agent": "Knight Frank",
+      "branch": "Stratford Upon Avon",
+      "listed_date": "2026-02-19",
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172376639",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172376639",
+      "first_seen": "2026-02-23",
+      "first_price": 1695000,
+      "status": "NEW"
+    },
+    "r172363703": {
+      "street": "West Street",
+      "postcode": "CV34 6AW",
+      "town": "WARWICK",
+      "price": 325000,
+      "agent": "Hawkesford",
+      "branch": "Warwick",
+      "listed_date": "2026-02-18",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172363703",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172363703",
+      "first_seen": "2026-02-23",
+      "first_price": 325000,
+      "status": "NEW"
+    },
+    "r172428452": {
+      "street": "Basket Hall",
+      "postcode": "CV36 4BP",
+      "town": "SHIPSTON-ON-STOUR",
+      "price": 750000,
+      "agent": "Peter Clarke",
+      "branch": "Shipston on Stour",
+      "listed_date": "2026-02-20",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172428452",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172428452",
+      "first_seen": "2026-02-23",
+      "first_price": 750000,
+      "status": "NEW"
+    },
+    "r172324196": {
+      "street": "Ashgrove",
+      "postcode": "CV36 4FE",
+      "town": "SHIPSTON-ON-STOUR",
+      "price": 410000,
+      "agent": "Jane Lees Your Property Partnership",
+      "branch": "Stratford-upon-Avon",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172324196",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172324196",
+      "first_seen": "2026-02-23",
+      "first_price": 410000,
+      "status": "NEW"
+    },
+    "r172332395": {
+      "street": "Alcester Road",
+      "postcode": "CV37 6HH",
+      "town": "STRATFORD-UPON-AVON",
+      "price": 90000,
+      "agent": "Sheldon Bosley Knight",
+      "branch": "Stratford-Upon-Avon",
+      "listed_date": "2026-02-18",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172332395",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172332395",
+      "first_seen": "2026-02-23",
+      "first_price": 90000,
+      "status": "NEW"
+    },
+    "r172431821": {
+      "street": "Clopton Road",
+      "postcode": "CV37 6SH",
+      "town": "STRATFORD-UPON-AVON",
+      "price": 160000,
+      "agent": "Belvoir",
+      "branch": "Stratford-Upon-Avon",
+      "listed_date": "2026-02-20",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Flats/Maisonettes",
+      "source": "rightmove",
+      "listing_id": "r172431821",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172431821",
+      "first_seen": "2026-02-23",
+      "first_price": 160000,
+      "status": "NEW"
+    },
+    "r87623478": {
+      "street": "Old Town",
+      "postcode": "CV37 6BG",
+      "town": "STRATFORD-UPON-AVON",
+      "price": 2950000,
+      "agent": "Knight Frank",
+      "branch": "Stratford Upon Avon",
+      "listed_date": "2026-01-23",
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r87623478",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87623478",
+      "first_seen": "2026-02-23",
+      "first_price": 2950000,
+      "status": "NEW"
+    },
+    "r172435844": {
+      "street": "Pendicke Street",
+      "postcode": "CV47 1PE",
+      "town": "SOUTHAM",
+      "price": 485000,
+      "agent": "Inside Homes Ltd",
+      "branch": "Southam",
+      "listed_date": "2026-02-20",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172435844",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172435844",
+      "first_seen": "2026-02-23",
+      "first_price": 485000,
+      "status": "NEW"
+    },
+    "r87588645": {
+      "street": "Manders Croft",
+      "postcode": "CV47 0HZ",
+      "town": "SOUTHAM",
+      "price": 300000,
+      "agent": "EweMove",
+      "branch": "Warwick and Leamington Spa",
+      "listed_date": "2026-02-04",
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "property_type": "Semi-Detached",
+      "source": "rightmove",
+      "listing_id": "r87588645",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/87588645",
+      "first_seen": "2026-02-23",
+      "first_price": 300000,
+      "status": "NEW"
+    },
+    "r172415771": {
+      "street": "Watergall Close",
+      "postcode": "CV47 1GG",
+      "town": "SOUTHAM",
+      "price": 230000,
+      "agent": "Hawkesford",
+      "branch": "Warwick",
+      "listed_date": "2026-02-19",
+      "bedrooms": 2,
+      "bathrooms": "",
+      "property_type": "Terraced",
+      "source": "rightmove",
+      "listing_id": "r172415771",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172415771",
+      "first_seen": "2026-02-23",
+      "first_price": 230000,
+      "status": "NEW"
+    },
+    "r172314683": {
+      "street": "Moorhen Grove",
+      "postcode": "CV47 2UX",
+      "town": "SOUTHAM",
+      "price": 375000,
+      "agent": "The Property Experts",
+      "branch": "London",
+      "listed_date": "2026-02-17",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172314683",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172314683",
+      "first_seen": "2026-02-23",
+      "first_price": 375000,
+      "status": "NEW"
+    },
+    "r172263263": {
+      "street": "Leamington Road",
+      "postcode": "CV47 9PL",
+      "town": "SOUTHAM",
+      "price": 675000,
+      "agent": "Wiglesworth",
+      "branch": "Leamington Spa",
+      "listed_date": "2026-02-16",
+      "bedrooms": 5,
+      "bathrooms": 3,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172263263",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172263263",
+      "first_seen": "2026-02-23",
+      "first_price": 675000,
+      "status": "NEW"
+    },
+    "r172364237": {
+      "street": "Short Lane",
+      "postcode": "CV47 9PB",
+      "town": "SOUTHAM",
+      "price": 117500,
+      "agent": "Southern Housing (RES)",
+      "branch": "Southern Housing (RES)",
+      "listed_date": "2026-02-18",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "property_type": "Detached",
+      "source": "rightmove",
+      "listing_id": "r172364237",
+      "rightmove_url": "https://www.rightmove.co.uk/properties/172364237",
+      "first_seen": "2026-02-23",
+      "first_price": 117500,
+      "status": "NEW"
     }
   }
 }
