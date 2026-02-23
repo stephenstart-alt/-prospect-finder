@@ -79,6 +79,21 @@
       "exact_matches": 0,
       "street_only_matches": 0,
       "pushed_to_supabase": true
+    },
+    {
+      "date": "2026-02-23",
+      "time": "174605",
+      "total_active": 0,
+      "new_listings": 0,
+      "withdrawn": 1578,
+      "price_reduced": 0,
+      "listing_changes_logged": 1578,
+      "cost": 0,
+      "matched_listings": 0,
+      "matched_properties": 0,
+      "exact_matches": 0,
+      "street_only_matches": 0,
+      "pushed_to_supabase": true
     }
   ],
   "listings": {
@@ -4316,7 +4331,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171048887",
       "first_seen": "2026-02-13",
       "first_price": 121950,
-      "status": "UNDER OFFER",
+      "status": "SOLD STC",
       "withdrawn_date": "2026-02-23"
     },
     "r169117733": {
@@ -12609,7 +12624,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/171690605",
       "first_seen": "2026-02-13",
       "first_price": 399950,
-      "status": "UNDER OFFER",
+      "status": "SOLD STC",
       "withdrawn_date": "2026-02-23"
     },
     "r167678822": {
@@ -33066,7 +33081,7 @@
       "rightmove_url": "https://www.rightmove.co.uk/properties/172326398",
       "first_seen": "2026-02-23",
       "first_price": 150000,
-      "status": "UNDER OFFER",
+      "status": "SOLD STC",
       "withdrawn_date": "2026-02-23"
     },
     "r171740870": {
